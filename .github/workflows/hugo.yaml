@@ -76,10 +76,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
-
-name: github pages
-
-on:
-  push:
-    branches:
-      - main
