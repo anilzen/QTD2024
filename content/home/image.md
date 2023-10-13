@@ -6,8 +6,8 @@ headless: false
 # Order that this section appears on the page.
 weight: 10
 
-title: Quantum Thermodynamics Conference 2024
-subtitle: August 5—9, 2024 at the University of Maryland
+title: Quantum Thermodynamics Conference 2024 <br/> at the University of Maryland <br/> August 5—9, 2024
+subtitle: Details will be announced soon!
 
 design:
   columns: '1'
