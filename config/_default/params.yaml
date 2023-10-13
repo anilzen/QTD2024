@@ -63,7 +63,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/anilzen/QTD-Conference/'
+    url: 'https://github.com/anilzen/QTD2024/'
     content_dir: content
     branch: main
   avatar:
