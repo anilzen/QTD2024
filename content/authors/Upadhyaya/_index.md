@@ -24,9 +24,9 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/nicoleyh11
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.com/citations?user=tsE4hDIAAAAJ
+  # - icon: google-scholar
+  #   icon_pack: ai
+  #   link: https://scholar.google.com/citations?user=tsE4hDIAAAAJ
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
