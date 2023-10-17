@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Emery Doucet
+weight: 20
 
 # Is this the primary user of the site?
 superuser: false
@@ -32,4 +33,5 @@ highlight_name: true
 
 user_groups:
   - Speakers
+  - Local Organizing Committee
 ---

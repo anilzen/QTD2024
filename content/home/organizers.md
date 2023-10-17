@@ -3,16 +3,16 @@ widget: people
 headless: true
 weight: 30
 
-title: Organizers
+title: Local Organizing Committee
 subtitle: 
 
 content:
   user_groups:
-    - Organizers
+    - Local Organizing Committee
 
 design:
   show_interests: false
-  show_role: false
+  show_role: true
   show_social: true
   show_organizations: true
 ---

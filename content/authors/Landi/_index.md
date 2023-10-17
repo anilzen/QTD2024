@@ -1,33 +1,30 @@
 ---
 # Display name
-title: Nicole Yunger Halpern
-
-weight: 80
+title: Gabriel Landi
+weight: 55
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: 
+role: Chair
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland, College Park
-    url: 'https://quantumsteampunk.umiacs.io/'
+  - name: University of Rochester
 
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://quantumsteampunk.umiacs.io/'
+    link: 'https://www.pas.rochester.edu/~gtlandi/'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:nicoleyh@umd.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/nicoleyh11
+    link: 'mailto:glandi@ur.rochester.edu'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/nicoleyh11
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=P68O1fkAAAAJ
+    link: https://scholar.google.com/citations?user=zdtouBUAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
@@ -36,6 +33,5 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Speakers
-  - Local Organizing Committee
+  - Program Committee
 ---
-

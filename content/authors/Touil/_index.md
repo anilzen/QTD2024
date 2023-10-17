@@ -1,8 +1,9 @@
 ---
 # Display name
-title: Sebastian Deffner
-weight: 15
+title: Akram Touil
+weight: 50
 
+# Is this the primary user of the site?
 superuser: false
 
 # Role/position
@@ -11,21 +12,21 @@ role:
 # Organizations/Affiliations
 organizations:
   - name: University of Maryland, Baltimore County
-    url: 'https://quthermo.umbc.edu/group-members/sebastian-deffner/'
+    url: 'https://quthermo.umbc.edu/group-members/alumni/akram-touil/'
 
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://quthermo.umbc.edu/group-members/sebastian-deffner/'
+    link: 'https://quthermo.umbc.edu/group-members/alumni/akram-touil/'
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:deffner@umbc.edu'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/quthermo_comp
+    link: 'mailto:akramt1@umbc.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?hl=en&user=SlpkU2gAAAAJ
+    link: https://scholar.google.com/citations?user=sS5J23UAAAAJ&hl=en
+  # - icon: orcid
+  #   icon_pack: fab
+  #   link: https://orcid.org/0000-0002-3427-9113
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen
