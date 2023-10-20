@@ -18,6 +18,7 @@ design:
     image_position: bottom
     image_size: cover
     text_color_light: true
+    caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
   spacing:
     padding: ['130px', '0', '20px', '0']
 advanced:
