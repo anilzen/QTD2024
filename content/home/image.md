@@ -12,10 +12,10 @@ subtitle: Details will be announced soon!
 design:
   columns: '1'
   background:
-    image: ESJ_Room.jpg
-    image_darken: .5
+    image: Conference2.webp
+    image_darken: .6
     image_parallax: false
-    image_position: center
+    image_position: bottom
     image_size: cover
     text_color_light: true
   spacing:

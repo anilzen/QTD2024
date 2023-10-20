@@ -22,10 +22,13 @@ QTD 2024 is the annual conference on quantum thermodynamics held in person at th
 <section class="logo-list">
     <div class="container">
         <div class="row">
+            <div class="col-lg-2 col-md-2 col-2">
+                <a href="https://qtd-hub.umd.edu/"><img src="/uploads/QTDLogo.png" class="img-fluid" alt="Quantum Thermodynamics Hub" width=70></a>
+            </div>
             <div class="col-lg-6 col-md-6 col-6">
                 <a href="https://ipst.umd.edu/"><img src="/uploads/IPST.png" class="img-fluid" alt="UMD Logo"></a>
             </div>
-            <div class="col-lg-6 col-md-6 col-6">
+            <div class="col-lg-4 col-md-4 col-4">
                 <a href="https://www.templeton.org/"><img src="/uploads/JTF-Logo-Tagline-FullColor-CMYK.png" class="img-fluid" alt="Templeton Foundation Logo"></a>
             </div>
         </div>
