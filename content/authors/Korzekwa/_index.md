@@ -1,33 +1,27 @@
 ---
 # Display name
-title: Gabriel Landi
-weight: 65
+title: Kamil Korzekwa
+weight: 60
 
 # Is this the primary user of the site?
 superuser: false
 
-role: Chair
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Rochester
+  - name: Jagiellonian University
 
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://www.pas.rochester.edu/~gtlandi/'
+    link: http://kamilkorzekwa.com
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:glandi@ur.rochester.edu'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/nicoleyh11
+    link: 'mailto:kamil.korzekwa@uj.edu.pl'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=zdtouBUAAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?user=8YXAXVkAAAAJ&hl=en
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

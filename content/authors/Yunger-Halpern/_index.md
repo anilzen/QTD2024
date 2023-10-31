@@ -1,8 +1,7 @@
 ---
 # Display name
 title: Nicole Yunger Halpern
-
-weight: 80
+weight: 95
 
 # Is this the primary user of the site?
 superuser: false

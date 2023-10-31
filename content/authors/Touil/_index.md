@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Akram Touil
-weight: 50
+weight: 85
 
 # Is this the primary user of the site?
 superuser: false
@@ -11,8 +11,7 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Maryland, Baltimore County
-    url: 'https://quthermo.umbc.edu/group-members/alumni/akram-touil/'
+  - name: Los Alamos National Laboratory
 
 social:
   - icon: globe

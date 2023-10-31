@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Pedro García-Pintos
-weight: 1
+weight: 35
 
 # Username (this should match the folder name)
 # authors:
@@ -45,5 +45,6 @@ social:
 user_groups:
   - Speakers
   - Local Organizing Committee
+  - Program Committee
 ---
 

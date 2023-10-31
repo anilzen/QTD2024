@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Kanu Sinha
-weight: 60
+weight: 75
 
 superuser: false
 

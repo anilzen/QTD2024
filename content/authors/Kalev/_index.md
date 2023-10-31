@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Amir Kalev
-weight: 40
+weight: 50
 
 # Is this the primary user of the site?
 superuser: false

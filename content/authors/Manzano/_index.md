@@ -1,30 +1,30 @@
 ---
 # Display name
-title: Gabriel Landi
-weight: 65
+title: Gonzalo Manzano
+weight: 70
 
 # Is this the primary user of the site?
 superuser: false
 
-role: Chair
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Rochester
+  - name: Universitat de les Illes Balears
 
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://www.pas.rochester.edu/~gtlandi/'
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:glandi@ur.rochester.edu'
+    link: https://ifisc.uib-csic.es/en/people/gonzalo-manzano/
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/nicoleyh11
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=zdtouBUAAAAJ&hl=en
+    link: https://scholar.google.es/citations?user=GggU370AAAAJ&hl=es
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/gcushen

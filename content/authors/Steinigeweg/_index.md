@@ -1,33 +1,27 @@
 ---
 # Display name
-title: Gabriel Landi
-weight: 65
+title: Robin Steinigeweg
+weight: 80
 
 # Is this the primary user of the site?
 superuser: false
 
-role: Chair
+role: 
 
 # Organizations/Affiliations
 organizations:
-  - name: University of Rochester
+  - name: University of Osnabrück
 
 social:
   - icon: globe
     icon_pack: fas
-    link: 'https://www.pas.rochester.edu/~gtlandi/'
+    link: http://www.robin-st.de
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:glandi@ur.rochester.edu'
-  # - icon: twitter
-  #   icon_pack: fab
-  #   link: https://twitter.com/nicoleyh11
+    link: 'mailto:robin@robin-st.de'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=zdtouBUAAAAJ&hl=en
-  # - icon: github
-  #   icon_pack: fab
-  #   link: https://github.com/gcushen
+    link: https://scholar.google.de/citations?user=9LH9oxkAAAAJ&hl=de
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

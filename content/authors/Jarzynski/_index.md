@@ -1,8 +1,7 @@
 ---
 # Display name
 title: Christopher Jarzynski
-
-weight: 30
+weight: 45
 
 # Is this the primary user of the site?
 superuser: false

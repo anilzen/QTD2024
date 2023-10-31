@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Sebastian Deffner
-weight: 15
+weight: 20
 
 superuser: false
 
@@ -35,5 +35,6 @@ social:
 user_groups:
   - Speakers
   - Local Organizing Committee
+  - Program Committee
 ---
 

@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Anthony Kiely
+weight: 55
 
 # Is this the primary user of the site?
 superuser: false
