@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Luis Pedro García-Pintos
-weight: 35
+weight: 1
 
 # Username (this should match the folder name)
 # authors:
@@ -11,7 +11,7 @@ weight: 35
 superuser: false
 
 # Role/position
-role: 
+role: Chair
 
 # Organizations/Affiliations
 organizations:
@@ -44,6 +44,6 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Speakers
-  - Program Committee
+  - Local Organizing Committee
 ---
 
