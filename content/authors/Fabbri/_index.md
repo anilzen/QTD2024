@@ -2,6 +2,8 @@
 # Display name
 title: Nicole Fabbri
 weight: 30
+first_name: Nicole
+last_name: Fabbri
 
 # Is this the primary user of the site?
 superuser: false

@@ -2,6 +2,8 @@
 # Display name
 title: Emery Doucet
 weight: 25
+first_name: Emery
+last_name: Doucet
 
 # Is this the primary user of the site?
 superuser: false

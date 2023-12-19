@@ -2,6 +2,8 @@
 # Display name
 title: Steve Campbell
 weight: 15
+first_name: Steve
+last_name: Campbell
 
 # Is this the primary user of the site?
 superuser: false

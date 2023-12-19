@@ -2,6 +2,8 @@
 # Display name
 title: Sebastian Deffner
 weight: 20
+first_name: Sebastian
+last_name: Deffner
 
 superuser: false
 

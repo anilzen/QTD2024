@@ -1,7 +1,7 @@
 ---
 widget: people
 headless: true
-weight: 30
+weight: 35
 
 title: Local Organizing Committee
 subtitle: 

@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Felipe Barra
-weight: 10
-first_name: Felipe
-last_name: Barra
+title: Fabio Anza
+weight: 5
+first_name: Fabio
+last_name: Anza
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,22 +12,21 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de Chile
+  - name: Universita degli studi di Trieste
 
 social:
   - icon: globe
     icon_pack: fas
-    link: https://uchile.cl/portafolio-academico/academico/32921-Felipe-Javier-Barra-de%20la%20Guarda
+    link: https://www.fabioanza.com/
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fbarra@uchile.cl'
+    link: 'mailto:fanza@ucdavis.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Q1ICzqAAAAAJ&hl=en
+    link: https://scholar.google.it/citations?user=LgwbKf8AAAAJ&hl=it
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Speakers
-  - Program Committee
+  - Invited Speaker
 ---

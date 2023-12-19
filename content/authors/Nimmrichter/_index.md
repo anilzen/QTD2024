@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Felipe Barra
-weight: 10
-first_name: Felipe
-last_name: Barra
+title: Stefan Nimmrichter
+weight: 35
+first_name: Stefan   
+last_name: Nimmrichter
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,22 +12,21 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: Universidad de Chile
+  - name: University of Siegen
 
 social:
   - icon: globe
     icon_pack: fas
-    link: https://uchile.cl/portafolio-academico/academico/32921-Felipe-Javier-Barra-de%20la%20Guarda
+    link: https://www.physik.uni-siegen.de/tqo/members/nimmrichter/index.xml?lang=de
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:fbarra@uchile.cl'
+    link: 'mailto:stefan.nimmrichter@uni-siegen.de'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=Q1ICzqAAAAAJ&hl=en
+    link: https://scholar.google.de/citations?user=qO1UFewAAAAJ&hl=de
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Speakers
-  - Program Committee
+  - Invited Speaker
 ---
