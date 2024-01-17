@@ -23,11 +23,11 @@ Please submit your abstract using the [Google form](https://forms.gle/wBVJ9L99BH
 
 # Important Dates:
 
-- *Registration Opens:* <span style="color: #17a2b8;">February</span>
-- *Abstract Submission Deadline:* <span style="color: #ffc107;">March 1</span>
-- *Notification of Contributed Talks:* <span style="color: #28a745;">April 22</span>
-- *Poster Submission Deadline:* <span style="color: #dc3545;">June 15</span>
-- *Registration Deadline:* <span style="color: #dc3545;">June 15</span>
+- *Registration Opens:* <span style="color: #17a2b8;font-weight: bold;">February</span>
+- *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 1</span>
+- *Notification of Contributed Talks:* <span style="color: #28a745;font-weight: bold;">April 22</span>
+- *Poster Submission Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
+- *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
 
 <!-- Submission deadline is  -->
 <br>
