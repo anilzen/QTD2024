@@ -32,7 +32,8 @@ To register, please click [here](https://go.umd.edu/qtd2024registration).
 - *Poster Submission Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
 - *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
 
-<!-- Submission deadline is  -->
+Registration is at [https://go.umd.edu/qtd2024registration](https://go.umd.edu/qtd2024registration).
+
 <br>
 
 ---
