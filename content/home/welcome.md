@@ -21,10 +21,13 @@ QTD 2024 is the annual conference on quantum thermodynamics held in person at th
 Please submit your abstract using the [Google form](https://forms.gle/wBVJ9L99BH8y1RUVA).
 {{% /callout %}}
 
+{{% callout note %}}
+To register, please click [here](https://go.umd.edu/qtd2024registration).
+{{% /callout %}}
+
 # Important Dates:
 
-- *Registration Opens:* <span style="color: #17a2b8;font-weight: bold;">February</span>
-- *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 1</span>
+- *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 11</span>
 - *Notification of Contributed Talks:* <span style="color: #28a745;font-weight: bold;">April 22</span>
 - *Poster Submission Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
 - *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>

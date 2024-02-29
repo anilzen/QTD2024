@@ -7,8 +7,7 @@ headless: false
 weight: 10
 
 title: Quantum Thermodynamics Conference 2024 <br/> at the University of Maryland <br/> August 5—9, 2024
-subtitle: "Exploring the Interplay of Quantum Mechanics and Thermodynamics <br/> Abstract submission is [open](https://forms.gle/wBVJ9L99BH8y1RUVA)!"
-
+subtitle: "Exploring the Interplay of Quantum Mechanics and Thermodynamics <br/> Abstract submission is [open](https://forms.gle/wBVJ9L99BH8y1RUVA)! <br/> To register, please click [here](https://go.umd.edu/qtd2024registration)."
 design:
   columns: '1'
   background:
