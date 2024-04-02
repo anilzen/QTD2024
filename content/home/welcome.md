@@ -25,6 +25,9 @@ Please submit your abstract using the [Google form](https://forms.gle/wBVJ9L99BH
 To register, please click [here](https://go.umd.edu/qtd2024registration).
 {{% /callout %}}
 
+A limited number of scholarships will be available for researchers from underfunded regions. Please register by May 1st for best consideration.
+
+
 # Important Dates:
 
 - *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 11</span>
