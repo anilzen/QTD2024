@@ -1,14 +1,47 @@
 ---
-title: Talks
+title: Speakers
 
 # Listing view
 view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
-  caption: '<a href="https://modvic.com">Bruce Rosenbaum</a> and Jim Su'
+  caption: '<a href=https://modvic.com>Bruce Rosenbaum</a> and Jim Su'
   image: 'Redo.jpg'
 ---
+
+| <h3>Speaker</h3> | <h3>Affiliation</h3> |
+| ------- | ----------- |
+| [Stefan Aimet](#stefan-aimet) | Freie Universität Berlin|
+| [Lindsay Bassman Oftelie](#lindsay-bassman-oftelie) | CNR-Pisa|
+| [Tanmoy Biswas](#tanmoy-biswas) | Los Alamos National Laboratory, Los Alamos|
+| [Federico Cerisola](#federico-cerisola) | University of Exeter|
+| [Guilherme de Sousa](#guilherme-de-sousa) | University of Maryland|
+| [Paul Erker](#paul-erker) | Atominstitut (TU Wien) & IQOQI Vienna (ÖAW)|
+| [David Gelbwaser-Klimovsky](#david-gelbwaser-klimovsky) | Technion|
+| [Santiago Hernandez Gomez](#santiago-hernandez-gomez) | Istituto Nazionale di Ottica del Consiglio Nazionale delle Ricerche (CNR-INO)|
+| [Michal Horodecki](#michal-horodecki) | International Centre for Theory of Quantum Information|
+| [Karen Hovhannisyan](#karen-hovhannisyan) | University of Potsdam|
+| [Lata Kharkwal Joshi](#lata-kharkwal-joshi) | SISSA Trieste, Italy|
+| [Philip Kurian](#philip-kurian) | Quantum Biology Laboratory, Howard University|
+| [Florian Meier](#florian-meier) | Atominstitut, TU Wien, Austria|
+| [Harry Miller](#harry-miller) | University of Manchester|
+| [Anthony Munson](#anthony-munson) | University of Maryland, College Park|
+| [Zakaria Mzaouali](#zakaria-mzaouali) | Institute of Theoretical and Applied Informatics, Polish Academy of Sciences|
+| [Laetitia Paula Bettmann](#laetitia-paula-bettmann) | Trinity College Dublin|
+| [Dario Poletti](#dario-poletti) | Singapore university of Technology and Design|
+| [Haitao Quan](#haitao-quan) | Peking University|
+| [Alberto Rolandi ](#alberto-rolandi-) | University of Geneva|
+| [Huang Ruo Cheng](#huang-ruo-cheng) | Nanyang Technological University|
+| [Valerio Scarani](#valerio-scarani) | CQT, National University of Singapore|
+| [Finn Schmolke](#finn-schmolke) | Institut für theoretische Physik I, Universität Stuttgart|
+| [Oles Shtanko](#oles-shtanko) | IBM Quantum|
+| [Amit Vikram](#amit-vikram) | JQI and Dept. of Physics, University of Maryland, College Park|
+| [Amanda Younes](#amanda-younes) | University of California, Los Angeles|
+| [Maciej Zgirski](#maciej-zgirski) | Institute of Physics, PAN, Warsaw|
+
+
+# Titles
 
 ### Stefan Aimet
 *Freie Universität Berlin*
@@ -83,7 +116,7 @@ banner:
 ---
 
 ### Karen Hovhannisyan
-*Hovhannisyan*
+*University of Potsdam*
 
 #### Long-time equilibration can determine transient thermality
 
@@ -147,7 +180,7 @@ banner:
 ---
 
 ### Dario Poletti
-*singapore university of technology and design*
+*Singapore University of Technology and Design*
 
 #### Steady state currents in superconducting quantum processors
 
