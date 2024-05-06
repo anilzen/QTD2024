@@ -25,19 +25,23 @@ Please submit your abstract using the [Google form](https://forms.gle/wBVJ9L99BH
 To register, please click [here](https://go.umd.edu/qtd2024registration).
 {{% /callout %}}
 
-A limited number of scholarships will be available for researchers from underfunded regions. Please register by May 1st for best consideration.
-
-
-# Important Dates:
-
-- *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 11</span>
-- *Notification of Contributed Talks:* <span style="color: #28a745;font-weight: bold;">April 22</span>
-- *Poster Submission Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
-- *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span>
+A limited number of scholarships will be available for researchers from underfunded regions. 
 
 Registration is at [https://go.umd.edu/qtd2024registration](https://go.umd.edu/qtd2024registration).
 
+Please register by May 1st for best consideration. Deadline for registration and the deadline for poster submission is <span style="color: #dc3545;font-weight: bold;">June 15</span>.
+
+
+
+<!-- # Important Dates: -->
+
+<!-- - *Abstract Submission Deadline:* <span style="color: #ff8c00; font-weight: bold;">March 11</span>
+- *Notification of Contributed Talks:* <span style="color: #28a745;font-weight: bold;">April 22</span> -->
+<!-- - *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span> -->
+
+
 <br>
+{{% cta cta_link="./talk/" cta_text="Contributed speakers" %}}
 
 ---
 
