@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Francesco Giazotto
-weight: 20
-first_name: Francesco
-last_name: Giazotto
+title: David Weld
+weight: 65
+first_name: David    
+last_name: Weld
 
 # Is this the primary user of the site?
 superuser: false
@@ -12,21 +12,21 @@ role:
 
 # Organizations/Affiliations
 organizations:
-  - name: NEST Istituto Nanoscienze-CNR & Scuola Normale Superiore, Pisa
+  - name: UCSB
 
 social:
   - icon: globe
     icon_pack: fas
-    link: https://www.nano.cnr.it/researcher-profile/francesco-giazotto/
+    link: https://www.physics.ucsb.edu/people/david-weld
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:irene.francesco.giazotto@nano.cnr.it'
+    link: 'weld@ucsb.edu'
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.it/citations?user=XtJo50gAAAAJ&hl=it
+    link: https://scholar.google.com/citations?user=fMTTabYAAAAJ&hl=en
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  # - Invited Speaker
+  - Invited Speaker
 ---
