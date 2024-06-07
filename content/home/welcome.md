@@ -40,7 +40,7 @@ Deadline for registration and the deadline for poster submission is <span style=
 
 
 <br>
-{{% cta cta_link="./talk/" cta_text="Contributed speakers" %}}
+{{% cta cta_link="./talk/" cta_text="Talks" %}}
 
 ---
 
