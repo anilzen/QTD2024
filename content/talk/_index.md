@@ -1,5 +1,5 @@
 ---
-title: Speakers
+title: 
 
 # Listing view
 view: compact
@@ -10,6 +10,14 @@ banner:
   image: 'Redo.jpg'
 ---
 
+# Invited Talks
+| <h3>Speaker</h3> | <h3>Affiliation</h3> |
+| ------- | ----------- |
+| [Matteo Lostaglio](#matteo-lostaglio) | PsiQuantum|
+| [Marcos Rigol](#marcos-rigol) | Penn State University|
+
+
+# Contributed Talks
 
 | <h3>Speaker</h3> | <h3>Affiliation</h3> |
 | ------- | ----------- |
@@ -26,20 +34,20 @@ banner:
 | [Karen Hovhannisyan](#karen-hovhannisyan) | University of Potsdam|
 | [Lata Kharkwal Joshi](#lata-kharkwal-joshi) | SISSA Trieste, Italy|
 | [Philip Kurian](#philip-kurian) | Quantum Biology Laboratory, Howard University|
-| [Matteo Lostaglio](#matteo-lostaglio) | PsiQuantum|
+| [Patryk Lipka-Bartosik](#patryk-lipka-bartosik) | University of Geneva|
 | [Florian Meier](#florian-meier) | Atominstitut, TU Wien, Austria|
 | [Harry Miller](#harry-miller) | University of Manchester|
 | [Anthony Munson](#anthony-munson) | University of Maryland, College Park|
 | [Zakaria Mzaouali](#zakaria-mzaouali) | Institute of Theoretical and Applied Informatics, Polish Academy of Sciences|
 | [Laetitia Paula Bettmann](#laetitia-paula-bettmann) | Trinity College Dublin|
-| [Dario Poletti](#dario-poletti) | Singapore university of Technology and Design|
+| [Dario Poletti](#dario-poletti) | Singapore University of Technology and Design|
 | [Haitao Quan](#haitao-quan) | Peking University|
-| [Marcos Rigol](#marcos-rigol) | Penn State University|
 | [Alberto Rolandi ](#alberto-rolandi-) | University of Geneva|
 | [Huang Ruo Cheng](#huang-ruo-cheng) | Nanyang Technological University|
 | [Valerio Scarani](#valerio-scarani) | CQT, National University of Singapore|
 | [Finn Schmolke](#finn-schmolke) | Institut für theoretische Physik I, Universität Stuttgart|
 | [Oles Shtanko](#oles-shtanko) | IBM Quantum|
+| [Janine Splettstoesser](#janine-splettstoesser) | Chalmers University of Technology|
 | [Amit Vikram](#amit-vikram) | JQI and Dept. of Physics, University of Maryland, College Park|
 | [Amanda Younes](#amanda-younes) | University of California, Los Angeles|
 | [Maciej Zgirski](#maciej-zgirski) | Institute of Physics, PAN, Warsaw|
