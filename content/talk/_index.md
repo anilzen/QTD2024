@@ -63,6 +63,14 @@ A key hurdle for the success of quantum computers is the ability to prepare pure
 
 ---
 
+### Felix Binder
+*Trinity College Dublin*
+
+#### Thermodynamic Overfitting and Generalization: Energetic Limits on Predictive Complexity
+Efficiently harvesting thermodynamic resources requires a precise understanding of their structure. This becomes explicit through the lens of information engines---thermodynamic engines that use information as fuel. Maximizing the work harvested using available information is a form of physically-instantiated machine learning that drives information engines to develop complex predictive memory to store an environment's temporal correlations.  We show that an information engine's complex predictive memory poses both energetic benefits and risks. While increasing memory facilitates detection of hidden patterns in an environment, it also opens the possibility of thermodynamic overfitting, where the engine dissipates additional energy in testing. To address overfitting, we introduce thermodynamic regularizers that incur a cost to engine complexity in training due to the physical constraints on the information engine. We demonstrate that regularized thermodynamic machine learning generalizes effectively. In particular, the physical constraints from which regularizers are derived improve the performance of learned predictive models. This suggests that the laws of physics jointly create the conditions for emergent complexity and predictive intelligence.
+
+---
+
 ### Tanmoy Biswas
 *Los Alamos National Laboratory, Los Alamos*
 
@@ -163,6 +171,22 @@ Superradiance is the phenomenon of many identical quantum systems absorbing and/
 
 ---
 
+### Patryk Lipka-Bartosik
+*University of Geneva*
+
+#### Thermodynamic Computing via Autonomous Quantum Thermal Machines
+We develop a physics-based model for classical computation based on autonomous quantum thermal machines. These machines consist of few interacting quantum bits (qubits) connected to several environments at different temperatures. Heat flows through the machine are here exploited  for computing.  The  process starts by setting the temperatures of the environments according to the logical input. The machine evolves, eventually reaching a non-equilibrium steady state, from which the output of the computation can be determined via the temperature of an auxilliary finite-size reservoir. Such a machine, which we term a ``thermodynamic neuron'', can implement any linearly-separable function, and we discuss explicitly the cases of NOT, 3-majority and NOR gates. In turn, we show that a network of thermodynamic neurons can perform any desired function. We discuss the close connection between our model and artificial neurons (perceptrons), and argue that our model provides an alternative physics-based analogue implementation of neural networks, and more generally a platform for thermodynamic computing. 
+
+---
+
+### Matteo Lostaglio
+*PsiQuantum*
+
+#### Quantum Classical Thermodynamics
+Thermodynamic phenomena such as catalysis are characterized by complex interactions between physical and chemical processes that require challenging multiscale modeling. Transport and equilibration are typically described at a mesoscopic scale via computational fluid-dynamics (CFD) simulations (Navier-Stokes, lattice-Boltzmann…), reaction-diffusion equations and other models. To what extent can quantum theory, with its underlying linear, unitary dynamics, be used to efficiently simulate the nonlinear, non-unitary differential equations of classical thermodynamics? I will give an overview of recent remarkable progress as well as outstanding challenges of this nascent research direction.
+
+---
+
 ### Florian Meier
 *Atominstitut, TU Wien, Austria*
 
@@ -228,6 +252,27 @@ Fluctuation theorems establish connections between fluctuations and irreversibil
 
 ---
 
+### Marcos Rigol
+*Penn State University*
+
+#### Typical eigenstate entanglement entropy as a diagnostic of quantum chaos and integrability
+Quantum-chaotic systems are known to exhibit eigenstate
+thermalization and to generically thermalize under unitary dynamics. In
+contrast, quantum-integrable systems exhibit a generalized form of eigenstate
+thermalization and need to be described using generalized Gibbs ensembles
+after equilibration. I will discuss evidence that the entanglement properties
+of highly excited eigenstates of quantum-chaotic and quantum-integrable
+systems are fundamentally different. They both exhibit a typical bipartite
+entanglement entropy whose leading term scales with the volume of the
+subsystem. However, while the coefficient is constant and maximal in quantum-
+chaotic models, in integrable models it depends on the fraction of the system
+that is traced out. The latter is typical in random Gaussian pure states. I
+will also discuss the nature of the subleading corrections that emerge as a
+consequence of the presence of abelian and nonabelian symmetries in such
+models.
+
+---
+
 ### Alberto Rolandi 
 *University of Geneva*
 
@@ -281,6 +326,16 @@ Thermal (Gibbs) states are important for the study of thermal equilibrium and qu
 
 ---
 
+### Janine Splettstoesser
+*Chalmers University of Technology*
+
+#### Nonthermal resources and fluctuations in nanoscale engines
+Standard thermodynamic machines transform heat into work or vice versa. Macroscopic quantities, like temperatures, quantify the efficiency of their operation. This is different in nanoscale systems—often smaller than the length scales on which thermalisation takes place and where fluctuations can be of the same magnitude as average quantities. In this talk, I will show some properties of nanoelectronic devices, operating as engines, that are unique to the small scales on which they are realized. 
+I will start by introducing novel relations between charge currents flowing in nanoelectronic conductors and their noise. In contrast to standard fluctuation-dissipation relations, valid in equilibrium, these relations for generic nonequilibrium situations consist in inequalities, setting bounds on the currents that can be obtained given a certain noise level of the signal. This has direct implications on the performance of nanoelectronic engines, complementing recently introduced thermodynamics uncertainty relations.
+However, noise is not only a nuisance, but noisy resources can be beneficial for the operation of an engine! In the second part of my talk, I will introduce engines working without absorbing heat or work from the resource on average, seemingly violating the second law of thermodynamics. This is possible when the resource has nonthermal properties (namely, it cannot be characterized by a temperature or potential) and requires a minimum amount of fluctuations in the input.
+
+---
+
 ### Amit Vikram
 *JQI and Dept. of Physics, University of Maryland, College Park*
 
@@ -302,60 +357,5 @@ Laser cooling typically uses carefully tuned lasers to couple atoms to a near-va
 
 #### Quantum thermodynamics with a single superconducting vortex
 We introduce the Single Vortex Box (SVB) – a nanodevice that allows to treat a single superconducting vortex as a macroscopic, albeit quantized “particle”, which can be created and annihilated with pulses of electrical current [1,2]. Using the method of fast nanosecond resolving switching thermometry [3], we measure the temperature rise and the subsequent thermal relaxation resulting from the expulsion of just a single magnetic field vortex out of the SVB. Our experiment provides a calorimetric estimation of the dissipation in a superconductor due to a single moving vortex. This is a feat of the fundamental importance that has never been accomplished before for the lack of appropriate tools. Our pioneering demonstration is also a pivotal step towards the development of the vortex electronics i.e. memory cells, superconducting diodes, and logical elements.
-
----
-
-### Janine Splettstoesser
-*Chalmers University of Technology*
-
-#### Nonthermal resources and fluctuations in nanoscale engines
-Standard thermodynamic machines transform heat into work or vice versa. Macroscopic quantities, like temperatures, quantify the efficiency of their operation. This is different in nanoscale systems—often smaller than the length scales on which thermalisation takes place and where fluctuations can be of the same magnitude as average quantities. In this talk, I will show some properties of nanoelectronic devices, operating as engines, that are unique to the small scales on which they are realized. 
-I will start by introducing novel relations between charge currents flowing in nanoelectronic conductors and their noise. In contrast to standard fluctuation-dissipation relations, valid in equilibrium, these relations for generic nonequilibrium situations consist in inequalities, setting bounds on the currents that can be obtained given a certain noise level of the signal. This has direct implications on the performance of nanoelectronic engines, complementing recently introduced thermodynamics uncertainty relations.
-However, noise is not only a nuisance, but noisy resources can be beneficial for the operation of an engine! In the second part of my talk, I will introduce engines working without absorbing heat or work from the resource on average, seemingly violating the second law of thermodynamics. This is possible when the resource has nonthermal properties (namely, it cannot be characterized by a temperature or potential) and requires a minimum amount of fluctuations in the input.
-
----
-
-### Patryk Lipka-Bartosik
-*University of Geneva*
-
-#### Thermodynamic Computing via Autonomous Quantum Thermal Machines
-We develop a physics-based model for classical computation based on autonomous quantum thermal machines. These machines consist of few interacting quantum bits (qubits) connected to several environments at different temperatures. Heat flows through the machine are here exploited  for computing.  The  process starts by setting the temperatures of the environments according to the logical input. The machine evolves, eventually reaching a non-equilibrium steady state, from which the output of the computation can be determined via the temperature of an auxilliary finite-size reservoir. Such a machine, which we term a ``thermodynamic neuron'', can implement any linearly-separable function, and we discuss explicitly the cases of NOT, 3-majority and NOR gates. In turn, we show that a network of thermodynamic neurons can perform any desired function. We discuss the close connection between our model and artificial neurons (perceptrons), and argue that our model provides an alternative physics-based analogue implementation of neural networks, and more generally a platform for thermodynamic computing. 
-
----
-
-### Felix Binder
-*Trinity College Dublin*
-
-#### Thermodynamic Overfitting and Generalization: Energetic Limits on Predictive Complexity
-Efficiently harvesting thermodynamic resources requires a precise understanding of their structure. This becomes explicit through the lens of information engines---thermodynamic engines that use information as fuel. Maximizing the work harvested using available information is a form of physically-instantiated machine learning that drives information engines to develop complex predictive memory to store an environment's temporal correlations.  We show that an information engine's complex predictive memory poses both energetic benefits and risks. While increasing memory facilitates detection of hidden patterns in an environment, it also opens the possibility of thermodynamic overfitting, where the engine dissipates additional energy in testing. To address overfitting, we introduce thermodynamic regularizers that incur a cost to engine complexity in training due to the physical constraints on the information engine. We demonstrate that regularized thermodynamic machine learning generalizes effectively. In particular, the physical constraints from which regularizers are derived improve the performance of learned predictive models. This suggests that the laws of physics jointly create the conditions for emergent complexity and predictive intelligence.
-
----
-
-### Marcos Rigol
-*Penn State University*
-
-#### Typical eigenstate entanglement entropy as a diagnostic of quantum chaos and integrability
-Quantum-chaotic systems are known to exhibit eigenstate
-thermalization and to generically thermalize under unitary dynamics. In
-contrast, quantum-integrable systems exhibit a generalized form of eigenstate
-thermalization and need to be described using generalized Gibbs ensembles
-after equilibration. I will discuss evidence that the entanglement properties
-of highly excited eigenstates of quantum-chaotic and quantum-integrable
-systems are fundamentally different. They both exhibit a typical bipartite
-entanglement entropy whose leading term scales with the volume of the
-subsystem. However, while the coefficient is constant and maximal in quantum-
-chaotic models, in integrable models it depends on the fraction of the system
-that is traced out. The latter is typical in random Gaussian pure states. I
-will also discuss the nature of the subleading corrections that emerge as a
-consequence of the presence of abelian and nonabelian symmetries in such
-models.
-
----
-
-### Matteo Lostaglio
-*PsiQuantum*
-
-#### Quantum Classical Thermodynamics
-Thermodynamic phenomena such as catalysis are characterized by complex interactions between physical and chemical processes that require challenging multiscale modeling. Transport and equilibration are typically described at a mesoscopic scale via computational fluid-dynamics (CFD) simulations (Navier-Stokes, lattice-Boltzmann…), reaction-diffusion equations and other models. To what extent can quantum theory, with its underlying linear, unitary dynamics, be used to efficiently simulate the nonlinear, non-unitary differential equations of classical thermodynamics? I will give an overview of recent remarkable progress as well as outstanding challenges of this nascent research direction.
 
 ---
