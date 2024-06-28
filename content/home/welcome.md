@@ -29,7 +29,7 @@ A limited number of scholarships will be available for researchers from underfun
 
 Registration is at [https://go.umd.edu/qtd2024registration](https://go.umd.edu/qtd2024registration).
 
-Deadline for registration and the deadline for poster submission is <span style="color: #dc3545;font-weight: bold;">June 15</span>.
+Deadline for registration and the deadline for poster submission is <span style="color: #dc3545;font-weight: bold;">July 7</span>.
 
 
 <!-- # Important Dates: -->
