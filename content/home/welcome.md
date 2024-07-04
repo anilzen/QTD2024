@@ -38,7 +38,6 @@ Deadline for registration and the deadline for poster submission is <span style=
 - *Notification of Contributed Talks:* <span style="color: #28a745;font-weight: bold;">April 22</span> -->
 <!-- - *Registration Deadline:* <span style="color: #dc3545;font-weight: bold;">June 15</span> -->
 
-
 <br>
 {{% cta cta_link="./talk/" cta_text="Talks" %}}
 
@@ -59,3 +58,5 @@ Deadline for registration and the deadline for poster submission is <span style=
         </div>
     </div>
 </section>
+
+

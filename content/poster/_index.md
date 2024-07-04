@@ -10,6 +10,8 @@ banner:
   image: 'Redo_truncated.jpeg'
 ---
 
+Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
+
 | <h2>Presenter</h2> | <h2>Affiliation</h2> |
 | ------- | ----------- |
 | [Wynter Alford](#wynter-alford) | University of Rochester|
