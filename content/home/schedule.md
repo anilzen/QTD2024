@@ -30,7 +30,8 @@ design:
     }
 
     th {
-      background-color: #f2f2f2;
+      background-color: #704214;
+      color: #f9e09e;
     }
 
     .break {
