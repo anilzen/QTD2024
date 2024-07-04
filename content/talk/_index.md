@@ -10,14 +10,18 @@ banner:
   image: 'Redo.jpg'
 ---
 
-# Invited Talks
+## Invited Talks
 | <h3>Speaker</h3> | <h3>Affiliation</h3> |
 | ------- | ----------- |
+| [Eddy Keming Chen](#eddy-keming-chen) | University of California, San Diego|
 | [Matteo Lostaglio](#matteo-lostaglio) | PsiQuantum|
+| [Xiao Mi](#xiao-mi) | Google|
 | [Marcos Rigol](#marcos-rigol) | Penn State University|
+| [Giulia Rubino](#giulia-rubino) | University of Bristol|
 
+---
 
-# Contributed Talks
+## Contributed Talks
 
 | <h3>Speaker</h3> | <h3>Affiliation</h3> |
 | ------- | ----------- |
@@ -32,13 +36,14 @@ banner:
 | [Santiago Hernandez Gomez](#santiago-hernandez-gomez) | Istituto Nazionale di Ottica del Consiglio Nazionale delle Ricerche (CNR-INO)|
 | [Michal Horodecki](#michal-horodecki) | International Centre for Theory of Quantum Information|
 | [Karen Hovhannisyan](#karen-hovhannisyan) | University of Potsdam|
+| [Maeda Kenji](#maeda-kenji) | University of Massachusetts Boston|
 | [Lata Kharkwal Joshi](#lata-kharkwal-joshi) | SISSA Trieste, Italy|
 | [Philip Kurian](#philip-kurian) | Quantum Biology Laboratory, Howard University|
 | [Patryk Lipka-Bartosik](#patryk-lipka-bartosik) | University of Geneva|
 | [Florian Meier](#florian-meier) | Atominstitut, TU Wien, Austria|
 | [Harry Miller](#harry-miller) | University of Manchester|
 | [Anthony Munson](#anthony-munson) | University of Maryland, College Park|
-| [Zakaria Mzaouali](#zakaria-mzaouali) | Institute of Theoretical and Applied Informatics, Polish Academy of Sciences|
+| [Greeshma Oruganti](#greeshma-oruganti) | University of Maryland, College Park|
 | [Laetitia Paula Bettmann](#laetitia-paula-bettmann) | Trinity College Dublin|
 | [Dario Poletti](#dario-poletti) | Singapore University of Technology and Design|
 | [Haitao Quan](#haitao-quan) | Peking University|
@@ -52,8 +57,65 @@ banner:
 | [Amanda Younes](#amanda-younes) | University of California, Los Angeles|
 | [Maciej Zgirski](#maciej-zgirski) | Institute of Physics, PAN, Warsaw|
 
+---
 
-# Titles and Abstracts
+# Titles and Abstracts (Invited)
+### Eddy Keming Chen
+*University of California, San Diego*
+
+#### Quantum Foundations Meet Quantum Thermodynamics
+Two of the most difficult problems in the foundations of physics are (1) what gives rise to the arrow of time and (2) what the ontology of quantum mechanics is. They are difficult because the fundamental dynamical laws of physics do not privilege an arrow of time, and the quantum-mechanical wave function describes a high-dimensional reality that is radically different from our ordinary experiences. In this talk, I characterize and elaborate on the ''Wentaculus'' theory, a new approach to time's arrow in a quantum universe that offers a unified solution to both problems and is inspired by recent works in quantum thermodynamics. Central to the Wentaculus are (i) Density Matrix Realism, the idea that the quantum state of the universe is objective but can be impure, and (ii) the Initial Projection Hypothesis, a new law of nature that selects a unique initial quantum state. On the Wentaculus, the quantum state of the universe is sufficiently simple to be a law, and the arrow of time can be traced back to an exact boundary condition. The Wentaculus arguably yields a new strategy for understanding and proving the Second Law of Thermodynamics, as recent results in quantum thermodynamics imply that typical pure states starting in a low-entropy macrostate will be extremely close to the density matrix specified by the Wentaculus. The case study of the Wentaculus is further evidence that research in quantum foundations has much to benefit from engagement with quantum thermodynamics. (Related papers: https://arxiv.org/abs/2211.03973 and https://arxiv.org/abs/2405.01025)
+
+---
+
+### Matteo Lostaglio
+*PsiQuantum*
+
+#### Quantum Classical Thermodynamics
+Thermodynamic phenomena such as catalysis are characterized by complex interactions between physical and chemical processes that require challenging multiscale modeling. Transport and equilibration are typically described at a mesoscopic scale via computational fluid-dynamics (CFD) simulations (Navier-Stokes, lattice-Boltzmann…), reaction-diffusion equations and other models. To what extent can quantum theory, with its underlying linear, unitary dynamics, be used to efficiently simulate the nonlinear, non-unitary differential equations of classical thermodynamics? I will give an overview of recent remarkable progress as well as outstanding challenges of this nascent research direction.
+
+---
+
+### Xiao Mi
+*Google*
+
+#### Thermalization and Criticality on an Analog-Digital Quantum Simulator
+Understanding how interacting particles approach thermal equilibrium is a major challenge of quantum simulators. Unlocking the full potential of such systems toward this goal requires flexible initial state preparation, precise time evolution, and extensive probes for final state characterization. We present a quantum simulator comprising 69 superconducting qubits which supports both universal quantum gates and high-fidelity analog evolution, with performance beyond the reach of classical simulation in cross-entropy benchmarking experiments. Emulating a two-dimensional (2D) XY quantum magnet, we leverage a wide range of measurement techniques to study quantum states after ramps from an antiferromagnetic initial state. We observe signatures of the classical Kosterlitz-Thouless phase transition, as well as strong deviations from Kibble-Zurek scaling predictions attributed to the interplay between quantum and classical coarsening of the correlated domains. This interpretation is corroborated by injecting variable energy density into the initial state, which enables studying the effects of the eigenstate thermalization hypothesis (ETH) in targeted parts of the eigenspectrum. Finally, we digitally prepare the system in pairwise-entangled dimer states and image the transport of energy and vorticity during thermalization. These results establish the efficacy of superconducting analog-digital quantum processors for preparing states across many-body spectra and unveiling their thermalization dynamics.
+
+---
+
+### Marcos Rigol
+*Penn State University*
+
+#### Typical eigenstate entanglement entropy as a diagnostic of quantum chaos and integrability
+Quantum-chaotic systems are known to exhibit eigenstate
+thermalization and to generically thermalize under unitary dynamics. In
+contrast, quantum-integrable systems exhibit a generalized form of eigenstate
+thermalization and need to be described using generalized Gibbs ensembles
+after equilibration. I will discuss evidence that the entanglement properties
+of highly excited eigenstates of quantum-chaotic and quantum-integrable
+systems are fundamentally different. They both exhibit a typical bipartite
+entanglement entropy whose leading term scales with the volume of the
+subsystem. However, while the coefficient is constant and maximal in quantum-
+chaotic models, in integrable models it depends on the fraction of the system
+that is traced out. The latter is typical in random Gaussian pure states. I
+will also discuss the nature of the subleading corrections that emerge as a
+consequence of the presence of abelian and nonabelian symmetries in such
+models.
+
+---
+
+### Giulia Rubino
+*University of Bristol*
+
+#### Revising the quantum work fluctuation framework to encompass energy conservation
+Work is a process-based quantity, and its measurement typically requires interaction with a measuring device multiple times. While classical systems allow for non-invasive and accurate measurements, quantum systems present unique challenges due to the influence of the measuring device on the final value of work. As recent studies have shown, among these challenges is the impossibility of formulating a universal definition of work that respects energy conservation for coherent quantum systems and is compatible with the Jarzynski equality. In this talk, I will show how this challenge can be overcome by introducing a genuinely quantum, positive correction to the Jarzynski equality stemming from imposing energy conservation. When sufficiently large, this correction forces quantum work to violate the second law more often. Moreover, I will present a modified two-point measurement (TPM) scheme for work that ensures energy conservation for coherent quantum states and aligns with this quantum-corrected fluctuation relation. I will further underscore the practicality and effectiveness of this scheme by providing a detailed circuit implementation for it.
+
+---
+
+
+
+# Titles and Abstracts (Contributed)
 
 ### Stefan Aimet
 *Freie Universität Berlin*
@@ -84,14 +146,6 @@ Efficiently harvesting thermodynamic resources requires a precise understanding 
 
 #### Catalytic enhancement in the performance of the microscopic two-stroke heat engine
 We consider a model of a heat engine operating in the microscopic regime: the two-stroke engine. It produces work and exchanges heat in two discrete strokes that are separated in time. The engine consists of two d-level systems initialized in thermal states at two distinct temperatures. Additionally, an auxiliary non-equilibrium system called catalyst may be incorporated into the engine, provided the state of the catalyst remains unchanged after the completion of a thermodynamic cycle. This ensures that the work produced arises solely from the temperature difference. Upon establishing the rigorous thermodynamic framework, we characterize two-fold improvement stemming from the inclusion of a catalyst. Firstly, we show that the presence of a catalyst allows for surpassing the optimal efficiency of two-stroke heat engines which are not assisted by a catalyst. In particular, we prove that the optimal efficiency for two-stroke heat engine consisting of two-level systems is given
-
----
-
-### Alec Boyd
-*Trinity College Dublin*
-
-#### Thermodynamic Overfitting and Generalization: Energetic Limits on Predictive Complexity
-
 
 ---
 
@@ -155,6 +209,14 @@ When two initially thermal many-body systems start to interact strongly, their t
 
 ---
 
+### Maeda Kenji
+*University of Massachusetts Boston*
+
+#### Quantum Channel Classification by Quantum Fluctuation Theorem
+Quantum channel classification constitutes a significant task to explore the dynamics of quantum systems and design protocols for robust quantum information processing. Quantum processes are categorized into three distinct classes: unitary, non-unitary but unital, and non-unital evolution. In this study, we illustrate how the quantum fluctuation theorem, applied within the framework of open quantum systems utilizing the one-time measurement scheme, facilitates the differentiation of these processes. Specifically, we demonstrate that the heat conditioned upon the initial energy measurement of the system, termed conditional heat, serves as the metric for quantum channel classification. We establish three conditions that the conditional heat must satisfy for the system to undergo any of these evolutions. Moreover, we provide an operational significance to the conditional heat by associating it with quantum hypothesis testing.
+
+---
+
 ### Lata Kharkwal Joshi
 *SISSA Trieste, Italy*
 
@@ -175,23 +237,7 @@ Superradiance is the phenomenon of many identical quantum systems absorbing and/
 *University of Geneva*
 
 #### Thermodynamic Computing via Autonomous Quantum Thermal Machines
-
-
----
-
-### Patryk Lipka-Bartosik
-*University of Geneva*
-
-#### Thermodynamic Computing via Autonomous Quantum Thermal Machines
 We develop a physics-based model for classical computation based on autonomous quantum thermal machines. These machines consist of few interacting quantum bits (qubits) connected to several environments at different temperatures. Heat flows through the machine are here exploited  for computing.  The  process starts by setting the temperatures of the environments according to the logical input. The machine evolves, eventually reaching a non-equilibrium steady state, from which the output of the computation can be determined via the temperature of an auxilliary finite-size reservoir. Such a machine, which we term a ``thermodynamic neuron'', can implement any linearly-separable function, and we discuss explicitly the cases of NOT, 3-majority and NOR gates. In turn, we show that a network of thermodynamic neurons can perform any desired function. We discuss the close connection between our model and artificial neurons (perceptrons), and argue that our model provides an alternative physics-based analogue implementation of neural networks, and more generally a platform for thermodynamic computing. 
-
----
-
-### Matteo Lostaglio
-*PsiQuantum*
-
-#### Quantum Classical Thermodynamics
-Thermodynamic phenomena such as catalysis are characterized by complex interactions between physical and chemical processes that require challenging multiscale modeling. Transport and equilibration are typically described at a mesoscopic scale via computational fluid-dynamics (CFD) simulations (Navier-Stokes, lattice-Boltzmann…), reaction-diffusion equations and other models. To what extent can quantum theory, with its underlying linear, unitary dynamics, be used to efficiently simulate the nonlinear, non-unitary differential equations of classical thermodynamics? I will give an overview of recent remarkable progress as well as outstanding challenges of this nascent research direction.
 
 ---
 
@@ -225,11 +271,11 @@ According to Landauer, irreversible computation requires work. In principle, one
 
 ---
 
-### Zakaria Mzaouali
-*Institute of Theoretical and Applied Informatics, Polish Academy of Sciences*
+### Greeshma Oruganti
+*University of Maryland, College Park*
 
-#### Efficiency Optimization in Quantum Computing: Balancing Thermodynamics and Computational Performance
-We investigate the computational efficiency and thermodynamic cost of the D-Wave quantum annealer under reverse-annealing with and without pausing. Our experimental results demonstrate that the combination of reverse-annealing and pausing leads to improved computational efficiency while minimizing the thermodynamic cost compared to reverse-annealing alone. Moreover, we find that the magnetic field has a positive impact on the performance of the quantum annealer during reverse-annealing but becomes detrimental when pausing is involved. Our results provide strategies for optimizing the performance and energy consumption of quantum annealing systems employing reverse-annealing protocols. 
+#### Strong-Coupling Quantum Thermodynamics for Lattice Gauge Theories
+Gauge theories underpin our best models of nature’s fundamental interactions, yet their open-system quantum thermodynamics remains largely unexplored. Lattice Hamiltonian formulations of these theories are most naturally suited to quantum simulations. However, calculations with such formulations must be restricted to a certain subspace of the total Hilbert space. This restriction can engender significant interactions between the two constituents - a system and a reservoir - of a bipartite system. We address these interactions using strong-coupling quantum thermodynamics. To model lattice gauge theories undergoing sudden quenches, we present a framework for defining thermodynamic quantities for a system strongly coupled to a reservoir. We have culled three definitions of the system’s internal energy from literature, and these definitions lead to three distinct definitions of work and heat for sudden quench processes. We test the validity of the second law of thermodynamics under the different work and heat definitions. Only two of the work (and so heat) definitions satisfy the second law, we find. Using a thermodynamically consistent framework, we calculate the work and heat exchanged during a quench of a one-dimensional lattice gauge theory. Work and heat, we discover, signal a phase transition in this gauge theory. After bridging lattice gauge theories and open-system quantum thermodynamics, we tie in a concept from quantum information to provide a potential path toward experimental calculations of thermodynamic quantities.
 
 ---
 
@@ -257,27 +303,6 @@ We then discuss the experimental realization of these findings on state-of-the-a
 
 #### Special Relativistic Covariant Fluctuation Theorems
 Fluctuation theorems establish connections between fluctuations and irreversibility by considering stochastic thermodynamic quantities. In this study, we derive special relativistic covariant fluctuation theorems by defining covariant work, heat, and entropy. We focus on a driven scalar field in contact with a Markovian heat bath. For moving inertial observers relative to the heat bath, both the energy components and the momentum components of work and heat must be included to formulate the corresponding fluctuation theorems, and the four-velocity of the heat bath plays an important role. It turns out that, the irreversibility is characterized by the conventional thermodynamic quantities in the rest reference frame of the heat bath, regardless of the reference frame of the observer. Even in the nonrelativistic case, the above identification is nontrivial. We study the work statistics for a Klein-Gordon field in a driving process measured by a moving inertial observer to explicitly verify the covariant version of the Jarzynski equality.
-
----
-
-### Marcos Rigol
-*Penn State University*
-
-#### Typical eigenstate entanglement entropy as a diagnostic of quantum chaos and integrability
-Quantum-chaotic systems are known to exhibit eigenstate
-thermalization and to generically thermalize under unitary dynamics. In
-contrast, quantum-integrable systems exhibit a generalized form of eigenstate
-thermalization and need to be described using generalized Gibbs ensembles
-after equilibration. I will discuss evidence that the entanglement properties
-of highly excited eigenstates of quantum-chaotic and quantum-integrable
-systems are fundamentally different. They both exhibit a typical bipartite
-entanglement entropy whose leading term scales with the volume of the
-subsystem. However, while the coefficient is constant and maximal in quantum-
-chaotic models, in integrable models it depends on the fraction of the system
-that is traced out. The latter is typical in random Gaussian pure states. I
-will also discuss the nature of the subleading corrections that emerge as a
-consequence of the presence of abelian and nonabelian symmetries in such
-models.
 
 ---
 
@@ -330,14 +355,6 @@ Thermal (Gibbs) states are important for the study of thermal equilibrium and qu
 *Chalmers University of Technology*
 
 #### Nonthermal resources and fluctuations in nanoscale engines
-
-
----
-
-### Janine Splettstoesser
-*Chalmers University of Technology*
-
-#### Nonthermal resources and fluctuations in nanoscale engines
 Standard thermodynamic machines transform heat into work or vice versa. Macroscopic quantities, like temperatures, quantify the efficiency of their operation. This is different in nanoscale systems—often smaller than the length scales on which thermalisation takes place and where fluctuations can be of the same magnitude as average quantities. In this talk, I will show some properties of nanoelectronic devices, operating as engines, that are unique to the small scales on which they are realized. 
 I will start by introducing novel relations between charge currents flowing in nanoelectronic conductors and their noise. In contrast to standard fluctuation-dissipation relations, valid in equilibrium, these relations for generic nonequilibrium situations consist in inequalities, setting bounds on the currents that can be obtained given a certain noise level of the signal. This has direct implications on the performance of nanoelectronic engines, complementing recently introduced thermodynamics uncertainty relations.
 However, noise is not only a nuisance, but noisy resources can be beneficial for the operation of an engine! In the second part of my talk, I will introduce engines working without absorbing heat or work from the resource on average, seemingly violating the second law of thermodynamics. This is possible when the resource has nonthermal properties (namely, it cannot be characterized by a temperature or potential) and requires a minimum amount of fluctuations in the input.
@@ -367,3 +384,6 @@ Laser cooling typically uses carefully tuned lasers to couple atoms to a near-va
 We introduce the Single Vortex Box (SVB) – a nanodevice that allows to treat a single superconducting vortex as a macroscopic, albeit quantized “particle”, which can be created and annihilated with pulses of electrical current [1,2]. Using the method of fast nanosecond resolving switching thermometry [3], we measure the temperature rise and the subsequent thermal relaxation resulting from the expulsion of just a single magnetic field vortex out of the SVB. Our experiment provides a calorimetric estimation of the dissipation in a superconductor due to a single moving vortex. This is a feat of the fundamental importance that has never been accomplished before for the lack of appropriate tools. Our pioneering demonstration is also a pivotal step towards the development of the vortex electronics i.e. memory cells, superconducting diodes, and logical elements.
 
 ---
+
+
+"### " & {Full Name} & "\n*" & Affiliation & "*\n\n#### " & Title & "\n" & Abstract & "\n\n---\n"
