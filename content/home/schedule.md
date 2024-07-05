@@ -55,15 +55,14 @@ design:
     <tbody>
       <tr>
         <td>9:00 - 9:40</td>
-        <td>Welcome</td>
+        <td rowspan="2">Welcome (~20 min)<br> <a href="/talk#irene-damico">Irene D'Amico</a></td>
         <td><a href="/talk#giulia-rubino">Giulia Rubino</a></td>
         <td><a href="/talk#eddy-chen">Eddy Chen</a></td>
         <td><a href="/talk#xiao-mi">Xiao Mi</a></td>
-        <td>TBA</td>
+        <td class="break">Free</td>
       </tr>
       <tr>
         <td>9:40 - 10:05</td>
-        <td><a href="/talk#irene-damico">Irene D'Amico</a></td>
         <td><a href="/talk#michal-horodecki">Michal Horodecki</a></td>
         <td><a href="/talk#nicole-yunger-halpern">Nicole Yunger Halpern</a></td>
         <td><a href="/talk#hantao-quan">Hantao Quan</a></td>
