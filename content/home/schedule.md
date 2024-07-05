@@ -57,14 +57,14 @@ design:
         <td>9:00 - 9:40</td>
         <td rowspan="2">Welcome (~20 min)<br> <a href="/talk#irene-damico">Irene D'Amico</a></td>
         <td><a href="/talk#giulia-rubino">Giulia Rubino</a></td>
-        <td><a href="/talk#eddy-chen">Eddy Chen</a></td>
+        <td rowspan="2"><a href="/talk#eddy-chen">Eddy Chen</a></td>
         <td><a href="/talk#xiao-mi">Xiao Mi</a></td>
         <td class="break">Free</td>
       </tr>
       <tr>
         <td>9:40 - 10:05</td>
         <td><a href="/talk#michal-horodecki">Michal Horodecki</a></td>
-        <td><a href="/talk#nicole-yunger-halpern">Nicole Yunger Halpern</a></td>
+        <!-- <td><a href="/talk#nicole-yunger-halpern">Nicole Yunger Halpern</a></td> -->
         <td><a href="/talk#hantao-quan">Hantao Quan</a></td>
         <td><a href="/talk#lata-kharkwal-joshi">Lata Kharkwal Joshi</a></td>
       </tr>
@@ -97,16 +97,19 @@ design:
         <td><a href="/talk#amanda-younes">Amanda Younes</a></td>
       </tr>
       <tr>
-        <td>12:05 - 13:45</td>
-        <td class="break" colspan="2">Lunch</td>
+        <td>12:05 - 12:30</td>
+        <td class="break"rowspan="2" colspan="2">Lunch</td>
         <td><a href="/talk#david-gelbwaser-klimovsky">David Gelbwaser-Klimovsky</a></td>
-        <td class="break" colspan="2">Lunch</td>
+        <td class="break" rowspan="2" colspan="2">Lunch</td>
+      </tr>
+      <tr>
+        <td>12:30 - 13:45</td>
+        <td class="break" rowspan="7">Free Afternoon</td>
       </tr>
       <tr>
         <td>13:45 - 14:25</td>
         <td><a href="/talk#marcos-rigol">Marcos Rigol</a></td>
         <td><a href="/talk#fabio-anza">Fabio Anza</a></td>
-        <td class="break" rowspan="6">Free Afternoon</td>
         <td><a href="/talk#stefan-nimmrichter">Stefan Nimmrichter</a></td>
         <td><a href="/talk#matteo-lostaglio">Matteo Lostaglio</a></td>
       </tr>
