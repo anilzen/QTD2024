@@ -670,8 +670,9 @@ We provide the exact dynamics of a central spin interacting uniformly with a spi
 ### Yuxin Wang
 *University of Maryland, College Park*
 
-#### 
+#### Evidence for breaking of quantum detailed balance in non-Gaussian fluctuations of a driven-dissipative cavity
 
+Understanding how to accurately describe fluctuations in driven-dissipative quantum systems is a question of fundamental interest with implications in formulating fluctuations relations. Such knowledge is also useful for designing control protocols that enable high-fidelity quantum operations. Here, we employ the Keldysh approach to quantum noise characterization to quantify frequency-dependent non-Gaussian fluctuations of a quantum system. Making use of a general mapping between a moment-generating function of quantum fluctuations and a Keldysh path integral, our approach allows an exact evaluation of the higher-order fluctuations. We demonstrate the utility of our approach through the paradigmatic example of photon shot noise fluctuations in a driven bosonic mode, where we analytically derive the leading-order non-Gaussian corrections to those frequency-dependent fluctuations, also known as the quantum bispectrum. Our results reveal distinctive nonclassical noise properties of the system, including an effective breaking of detailed balance by quantum fluctuations. The quantum bispectrum can be experimentally measured using existing noise spectroscopy protocols.
 
 ---
 
@@ -745,7 +746,7 @@ In its modern phrasing, quantum chaos refers to the exponentially fast scramblin
 ### Sparsh Gupta
 *ICTS-TIFR*
 
-####  Filling an empty Aubry-Andre-Harper lattice by local injection of quantum particles
+####   Filling an empty Aubry-Andre-Harper lattice by local injection of quantum particles
 In this work, our objective is to investigate the response of a quasiperiodic system's dynamics when coupled with an environment, contrasting it with the isolated quantum dynamics of the system. We study the dynamics of filling an empty Aubre-Andre-Harper lattice (in different phases of the lattice) by connecting it locally with a thermal bath that injects non-interacting bosons or fermions into the lattice. We use exact quantum dynamics to evolve the whole setup and try to investigate various quantities of interest such as spatial density profile and the total number of bosons/fermions in the lattice. We observe that the spatial spread is ballistic, diffusive, and logarithmic in the Delocalized, Critical, and Localized phases respectively and the local occupation eventually settles down owing to equilibration. However, the time scales of equilibration vary differently in different regimes. We also observe the same scaling in different phases when the system's dynamics are evolved using the Lindblad Equation. The difference between bosons and fermions shows up in the early time growth rate and the saturation values of the profile. 
 
 ---
@@ -755,5 +756,6 @@ In this work, our objective is to investigate the response of a quasiperiodic sy
 
 #### Efficiency Optimization in Quantum Computing: Balancing Thermodynamics and Computational Performance
 We investigate the computational efficiency and thermodynamic cost of the D-Wave quantum annealer under reverse-annealing with and without pausing. Our experimental results demonstrate that the combination of reverse-annealing and pausing leads to improved computational efficiency while minimizing the thermodynamic cost compared to reverse-annealing alone. Moreover, we find that the magnetic field has a positive impact on the performance of the quantum annealer during reverse-annealing but becomes detrimental when pausing is involved. Our results provide strategies for optimizing the performance and energy consumption of quantum annealing systems employing reverse-annealing protocols. 
+
 
 ---
