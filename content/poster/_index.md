@@ -16,6 +16,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | ------- | ----------- |
 | [Wynter Alford](#wynter-alford) | University of Rochester|
 | [Sinan Altinisik](#sinan-altinisik) | Universität Stuttgart|
+| [Tony John George Apollaro](#tony-john-george-apollaro) | University of Malta|
 | [Suyash Bajpai](#suyash-bajpai) | Quantum Biology Laboratory, Howard University|
 | [Thales Augusto Barbosa Pinto Silva](#thales-augusto-barbosa-pinto-silva) | Technion|
 | [Konstantin Beyer](#konstantin-beyer) | Stevens Institute of Technology|
@@ -104,6 +105,14 @@ One approach to fermionic transport in the strongly-coupled regime is the method
 
 #### Validity of quickly driven master equations for the Caldeira-Leggett model
 A consistent approximate description of quickly driven quantum systems that are weakly coupled to their environment has been a long-standing goal in the field of open quantum systems. In this work we compare two different master equations, namely the driven Redfield master equation with a pre- and a post-trace rotational wave approximation, for the driven Caldeira-Leggett model without a counterterm against its exact solution. In the weak coupling regime, we find excellent agreement between all three models for slow to medium driving speeds and still reasonable agreement for fast driving speeds. We study the behavior of several system observables and the fidelity of the three models involved and investigate in detail in which parameter regimes the approximations used in the derivation of the two master equations fail. We also compare thermodynamic quantities such as work and heat for the three models and check for thermodynamic consistency.
+
+---
+
+### Tony John George Apollaro
+*University of Malta*
+
+#### Variational Gibbs State Preparation on NISQ devices
+The preparation of an equilibrium thermal state of a quantum many-body system on noisy intermediate-scale (NISQ) devices is an important task in order to extend the range of applications of quantum computation. Faithful Gibbs state preparation would pave the way to investigate protocols such as thermalization and out-of-equilibrium thermodynamics, as well as providing useful resources for quantum algorithms, where sampling from Gibbs states constitutes a key subroutine. We propose a variational quantum algorithm (VQA) to prepare Gibbs states of a quantum many-body system. The novelty of our VQA consists in implementing a parameterized quantum circuit acting on two distinct, yet connected, quantum registers. The VQA evaluates the Helmholtz free energy, where the von Neumann entropy is obtained via post-processing of computational basis measurements on one register, while the Gibbs state is prepared on the other register, via a unitary rotation in the energy basis. Finally, we benchmark our VQA by preparing Gibbs states of the transverse field Ising model and achieve remarkably high fidelities across a broad range of temperatures in statevector simulations. We also assess the performance of the VQA on IBM quantum computers, showcasing its feasibility on current NISQ devices.
 
 ---
 
