@@ -42,6 +42,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Clemens Jakubec](#clemens-jakubec) | University of Arizona|
 | [Siddharth Jindal](#siddharth-jindal) | University of Houston|
 | [Mao Kaneyasu](#mao-kaneyasu) | The University of Tokyo|
+| [Henning Kirchberg](#henning-kirchberg) | Chalmers University of Technology|
 | [Sanah Rahman Kokkarani](#sanah-rahman-kokkarani) | Indian Institute of Space Science and Technology|
 | [Ankit Kumar](#ankit-kumar) | University of Gdansk|
 | [Aleksander Lasek](#aleksander-lasek) | UMD|
@@ -346,6 +347,14 @@ The eigenstate thermalization hypothesis (ETH), the leading conjecture for the e
 #### Analyzing distribution of quantum resource under random noise
 Quantumness can be regarded as a resource available for various tasks. To realize the large-scale quantum information processing, it is essential to utilize such resources even under noisy environments.
 This research explores the effect the random noise gives to the quantum resource. We formalize the noisy channel using an ancillary system and a random unitary. The probability distribution of quantum coherence after passing through the random channel is derived based on the random matrix theory, and the distribution is verified by the numerical experiments.
+
+---
+
+### Henning Kirchberg
+*Chalmers University of Technology*
+
+#### Maxwell Demon revisited: a microscopic protocol for quantum measurement, information gain, work extraction and & energetic cost
+In many applications, the process of information gain is discussed without considering the time and energy cost required to obtain information, with the assumption that the Maxwell Demon can acquire information instantaneously at no additional energy cost except from memory erasure to a heat bath. This work addresses these issues. We examine a two-level system interacting with a (quantum) free particle as a meter. We employ the two-step Von-Neumann measurement protocol to analyze two aspects separately: (i) the evolution of the coupled system and meter and the entanglement between them considered as functions of the coupling and its duration, and the information gained during this process, and (ii) the fundamental energetic cost for coupling and decoupling the system and meter. This makes it possible to consider the energetic cost of acquiring information. Additionally, by including photon-induced stimulated emission in the protocol we investigate the information-driven work extraction from the measured system. Our analysis focuses on the ratio between the work generated from the obtained information and the energy invested to acquire it, as well as the power output (energy per measurement duration) and its optimization.
 
 ---
 
