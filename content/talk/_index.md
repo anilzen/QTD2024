@@ -7,7 +7,7 @@ view: compact
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: '<a href=https://modvic.com>Bruce Rosenbaum</a> and Jim Su'
-  image: 'Redo.jpg'
+  image: '/uploads/Redo_truncated.jpeg'
 ---
 
 ## Invited Talks
@@ -36,7 +36,7 @@ banner:
 | [Santiago Hernandez Gomez](#santiago-hernandez-gomez) | Istituto Nazionale di Ottica del Consiglio Nazionale delle Ricerche (CNR-INO)|
 | [Michal Horodecki](#michal-horodecki) | International Centre for Theory of Quantum Information|
 | [Karen Hovhannisyan](#karen-hovhannisyan) | University of Potsdam|
-| [Maeda Kenji](#maeda-kenji) | University of Massachusetts Boston|
+| [Kenji Maeda](#kenji-maeda) | University of Massachusetts Boston|
 | [Lata Kharkwal Joshi](#lata-kharkwal-joshi) | SISSA Trieste, Italy|
 | [Philip Kurian](#philip-kurian) | Quantum Biology Laboratory, Howard University|
 | [Patryk Lipka-Bartosik](#patryk-lipka-bartosik) | University of Geneva|
@@ -209,7 +209,7 @@ When two initially thermal many-body systems start to interact strongly, their t
 
 ---
 
-### Maeda Kenji
+### Kenji Maeda
 *University of Massachusetts Boston*
 
 #### Quantum Channel Classification by Quantum Fluctuation Theorem

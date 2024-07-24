@@ -65,7 +65,7 @@ design:
         <td>9:40 - 10:05</td>
         <td><a href="/talk#michal-horodecki">Michal Horodecki</a></td>
         <!-- <td><a href="/talk#nicole-yunger-halpern">Nicole Yunger Halpern</a></td> -->
-        <td><a href="/talk#hantao-quan">Hantao Quan</a></td>
+        <td><a href="/talk#haitao-quan">Haitao Quan</a></td>
         <td><a href="/talk#lata-kharkwal-joshi">Lata Kharkwal Joshi</a></td>
       </tr>
       <tr>
@@ -73,7 +73,7 @@ design:
         <td><a href="/talk#federico-cerisola">Federico Cerisola</a></td>
         <td><a href="/talk#huang-ruo-cheng">Huang Ruo Cheng</a></td>
         <td><a href="/talk#valerio-scarani">Valerio Scarani</a></td>
-        <td><a href="/talk#paul-erker">Paul Erker</a></td>
+        <td><a href="/talk#jake-xuereb">Jake Xuereb</a></td>
         <td><a href="/talk#harry-miller">Harry Miller</a></td>
       </tr>
       <tr>
@@ -109,9 +109,9 @@ design:
       <tr>
         <td>13:45 - 14:25</td>
         <td><a href="/talk#marcos-rigol">Marcos Rigol</a></td>
-        <td><a href="/talk#fabio-anza">Fabio Anza</a></td>
         <td><a href="/talk#stefan-nimmrichter">Stefan Nimmrichter</a></td>
         <td><a href="/talk#matteo-lostaglio">Matteo Lostaglio</a></td>
+        <td><a href="/talk#fabio-anza">Fabio Anza</a></td>
       </tr>
       <tr>
         <td>14:25 - 14:50</td>
@@ -130,7 +130,7 @@ design:
         <td><a href="/talk#greeshma-oruganti">Greeshma Oruganti</a></td>
         <td><a href="/talk#amit-vikram">Amit Vikram</a></td>
         <td rowspan="2">Panel Discussion<br>Quo Vadis Q Thermo?</td>
-        <td><a href="/talk#maeda-kenji">Maeda Kenji</a></td>
+        <td><a href="/talk#kenji-maeda">Kenji Maeda</a></td>
       </tr>
       <tr>
         <td>16:00 - 16:25</td>

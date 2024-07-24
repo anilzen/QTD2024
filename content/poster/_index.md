@@ -7,7 +7,7 @@ view: compact
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: '<a href=https://modvic.com>Bruce Rosenbaum</a> and Jim Su'
-  image: 'Redo_truncated.jpeg'
+  image: '/uploads/Redo_truncated.jpeg'
 ---
 
 Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
