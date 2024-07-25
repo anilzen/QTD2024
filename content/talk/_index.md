@@ -14,8 +14,10 @@ banner:
 | <h3>Speaker</h3> | <h3>Affiliation</h3> |
 | ------- | ----------- |
 | [Eddy Keming Chen](#eddy-keming-chen) | University of California, San Diego|
+| [Irene D'Amico](#irene-d'amico) | University of York|
 | [Matteo Lostaglio](#matteo-lostaglio) | PsiQuantum|
 | [Xiao Mi](#xiao-mi) | Google|
+| [Stefan Nimmrichter](#stefan-nimmrichter) | University of Siegen|
 | [Marcos Rigol](#marcos-rigol) | Penn State University|
 | [Giulia Rubino](#giulia-rubino) | University of Bristol|
 
@@ -54,6 +56,7 @@ banner:
 | [Oles Shtanko](#oles-shtanko) | IBM Quantum|
 | [Janine Splettstoesser](#janine-splettstoesser) | Chalmers University of Technology|
 | [Amit Vikram](#amit-vikram) | JQI and Dept. of Physics, University of Maryland, College Park|
+| [Jake Xuereb](#jake-xuereb) | Vienna University of Technology|
 | [Amanda Younes](#amanda-younes) | University of California, Los Angeles|
 | [Maciej Zgirski](#maciej-zgirski) | Institute of Physics, PAN, Warsaw|
 
@@ -65,6 +68,23 @@ banner:
 
 #### Quantum Foundations Meet Quantum Thermodynamics
 Two of the most difficult problems in the foundations of physics are (1) what gives rise to the arrow of time and (2) what the ontology of quantum mechanics is. They are difficult because the fundamental dynamical laws of physics do not privilege an arrow of time, and the quantum-mechanical wave function describes a high-dimensional reality that is radically different from our ordinary experiences. In this talk, I characterize and elaborate on the ''Wentaculus'' theory, a new approach to time's arrow in a quantum universe that offers a unified solution to both problems and is inspired by recent works in quantum thermodynamics. Central to the Wentaculus are (i) Density Matrix Realism, the idea that the quantum state of the universe is objective but can be impure, and (ii) the Initial Projection Hypothesis, a new law of nature that selects a unique initial quantum state. On the Wentaculus, the quantum state of the universe is sufficiently simple to be a law, and the arrow of time can be traced back to an exact boundary condition. The Wentaculus arguably yields a new strategy for understanding and proving the Second Law of Thermodynamics, as recent results in quantum thermodynamics imply that typical pure states starting in a low-entropy macrostate will be extremely close to the density matrix specified by the Wentaculus. The case study of the Wentaculus is further evidence that research in quantum foundations has much to benefit from engagement with quantum thermodynamics. (Related papers: https://arxiv.org/abs/2211.03973 and https://arxiv.org/abs/2405.01025)
+
+---
+
+### Irene D'Amico
+*University of York*
+
+#### Density Functional Theory approaches to Quantum Thermodynamics
+Density functional theory (DFT) is one of the most powerful methods to study properties of interacting many-body systems [1]. It focuses on the local particle density (instead of the system’s state) as the key variable to derive the properties of interest. While its zero-temperature formalism and applications are well established, the development of the finite-temperature formalism [2] and functionals are comparatively in their infancy. Interest in this direction has been spurred by the recent advent of quantum technologies and quantum thermodynamics, in turn fuelled by the increasing ability to prepare and control quantum systems on a microscopic scale. This capability allows the experimental verification of fundamental properties such as fluctuation theorems, and the potential to develop new quantum technologies based on increasingly complex many-body quantum systems. Understanding thermodynamic properties of these systems is crucial as they could limit applications, but also help the fabrication and running of efficient quantum devices. The effects of many-body interactions on thermal machines have started to be considered only recently[3]; however, from a theoretical point of view, addressing the study of interacting many-body quantum systems at finite temperature and out-of-equilibrium demands significant effort, usually requiring the use of approximations to tackle the complexity of problems beyond a handful of particles.
+
+In this context, we discuss the possibility of using DFT as a way to study the out-of-equilibrium thermodynamics of interacting many-body systems. We first consider finite-temperature approximations to the average work built from static, zero-temperature DFT concepts [4]. We apply this approach to out-of-equilibrium finite-time finite-temperature dynamics and discuss its advantages and limitations.  We then propose an approach based on thermal DFT to extrapolate information about the statistics of work and the irreversibility of a thermal quench [5]. In particular, we demonstrate that, in this case, both the characteristic function of work and that of irreversible entropy production can be expressed as functionals of the finite-temperature equilibrium densities
+of the pre- and post-quench Hamiltonians. This positions these densities as fundamental variables to derive information on the thermodynamics, as requested by thermal density functional theory. We provide relevant functional approximations and illustrate the method with numerical examples.
+
+[1] “Density functional theory: Its origins, rise to prominence, and future” R. O. Jones, Rev. Mod. Phys. 87, 897, (2015)
+[2] “Thermal Density Functional Theory in Context”, Pribram-Jones et al., Frontiers and Challenges in Warm Dense Matter. Lecture Notes in Computational Science and Engineering, vol 96. Springer, Cham. (2014) 
+[3] “Many-body quantum thermal machines”, V. Mukherjee and U. Divakaran, Journal of Physics: Condensed Matter, 33, 454001 (2021)
+[4] “Approximating quantum thermodynamic properties using DFT” K. Zawadzki et al.  J. Phys.: Condens. Matter 34 274002 (2022).
+[5] “Thermal density functional theory approach to quantum thermodynamics” A. Palamara et al., preprint (2024).
 
 ---
 
@@ -81,6 +101,14 @@ Thermodynamic phenomena such as catalysis are characterized by complex interacti
 
 #### Thermalization and Criticality on an Analog-Digital Quantum Simulator
 Understanding how interacting particles approach thermal equilibrium is a major challenge of quantum simulators. Unlocking the full potential of such systems toward this goal requires flexible initial state preparation, precise time evolution, and extensive probes for final state characterization. We present a quantum simulator comprising 69 superconducting qubits which supports both universal quantum gates and high-fidelity analog evolution, with performance beyond the reach of classical simulation in cross-entropy benchmarking experiments. Emulating a two-dimensional (2D) XY quantum magnet, we leverage a wide range of measurement techniques to study quantum states after ramps from an antiferromagnetic initial state. We observe signatures of the classical Kosterlitz-Thouless phase transition, as well as strong deviations from Kibble-Zurek scaling predictions attributed to the interplay between quantum and classical coarsening of the correlated domains. This interpretation is corroborated by injecting variable energy density into the initial state, which enables studying the effects of the eigenstate thermalization hypothesis (ETH) in targeted parts of the eigenspectrum. Finally, we digitally prepare the system in pairwise-entangled dimer states and image the transport of energy and vorticity during thermalization. These results establish the efficacy of superconducting analog-digital quantum processors for preparing states across many-body spectra and unveiling their thermalization dynamics.
+
+---
+
+### Stefan Nimmrichter
+*University of Siegen*
+
+#### Quantum systems as working fluids, for better or worse
+When it comes to concrete physical applications of quantum thermodynamics, one question has been investigated since the very onset of the field: What happens if the thermal devices from our everyday world -- engines, refrigerators, batteries -- were operated with a quantum working medium? Will their performance simply be ruined by strong quantum fluctuations, or can we harness non-classical phenomena such as energy quantization, coherence, and entanglement to boost it instead? Many theoretical case studies and various proof-of-principle experiments have led to positive and negative answers. Since genuine quantum advantages are hard to come by and rarely feasible in the lab, it is vital to continue exploring quantum optical and optomechanical toy models for thermal machines. I will share our recent ideas and observations concerning somewhat exotic quantum working fluids and their advantages and disadvantages for the paradigmatic Otto cycle and the three-level maser.
 
 ---
 
@@ -162,14 +190,6 @@ State of the art nanoscale electromechanical devices provide exciting platforms 
 
 #### Modeling continuous quantum feedback using a general signal processing filter
 To manipulate quantum systems efficiently, one needs to make measurements of quantum observables, collect the measurement outcome, and act accordingly, providing feedback. The typical procedure to perform a quantum measurement is understood using projective measurements that destroy all quantum coherence and leave the state in a particular eigenstate of the measured operator. This process is invasive as it destroys the quantumness of the state and can lead to a quantum Zeno effect in the limit of quick and repeated measurements.
-
----
-
-### Paul Erker
-*Atominstitut (TU Wien) & IQOQI Vienna (ÖAW)*
-
-#### Quantum Coding with Finite Thermodynamic Resources
-Quantum direct coding or Schumacher compression generalised the ideas of Shannon theory, gave an operational meaning to the von Neumann entropy and established the term qubit. But remembering that information processing is carried out by physical processes prompts one to wonder what thermodynamic resources are required to compress quantum information and how they constrain one's ability to perform this task. That is, if Alice and Bob only have access to thermal quantum states and clocks with finite accuracy, how well can they measure, encode and decode pure quantum state messages? In this work we examine these questions by modelling Alice's typical measurement as a unitary involving a measurement probe, investigating imperfect timekeeping on encoding and decoding and considering the role of temperature in Bob's appended qubits. In doing so, we derive fidelity bounds for this protocol involving the correlations Alice can form with their measurement probe, the variance of the clock's ticks and the temperature of Bob's qubits. Finally, we give an insight into the entropy produced by these two agents throughout the compression protocol by relating the resources they use to a quantum thermodynamic cooling protocol.
 
 ---
 
@@ -366,6 +386,14 @@ However, noise is not only a nuisance, but noisy resources can be beneficial for
 
 #### Quantum dynamics from the energy spectrum
 In this talk, we’ll provide an overview of some recent results that uncover universal connections between quantum dynamics and the energy spectrum, which can be intuitively regarded as refinements of the energy-time uncertainty principle. At the level of the fine structure of the spectrum, “quantum chaos” has often been associated with rigidity in spectral fluctuations, as exemplified by the eigenvalues of random matrices. We will show that this rigidity is directly indicative of a dynamical form of quantum ergodicity, which measures the ability to use an orthonormal basis for “quantum time-keeping” in the Hilbert space. Moreover, this quantum dynamical phenomenon captures the classical intuition behind ergodicity as exploring all regions of a phase space, addressing a long-standing question of the latter’s counterpart in an isolated quantum system. Zooming out to the overall profile of the energy spectrum, we will show that the spectral form factor sets a quantum speed limit that is nontrivial for asymptotically long times, and tighter than comparable versions of known speed limits based on the energy-time uncertainty principle. Applying this speed limit to the scrambling of information in a many-body system, we will obtain bounds on the fast scrambling of initial states under arbitrary interactions with a bath at any temperature. This sets an exact limit on the fastest allowed scrambling or thermalization time in an arbitrary quantum mechanical system.
+
+---
+
+### Jake Xuereb
+*Vienna University of Technology*
+
+#### Quantum Coding with Finite Thermodynamic Resources
+Quantum direct coding or Schumacher compression generalised the ideas of Shannon theory, gave an operational meaning to the von Neumann entropy and established the term qubit. But remembering that information processing is carried out by physical processes prompts one to wonder what thermodynamic resources are required to compress quantum information and how they constrain one's ability to perform this task. That is, if Alice and Bob only have access to thermal quantum states and clocks with finite accuracy, how well can they measure, encode and decode pure quantum state messages? In this work we examine these questions by modelling Alice's typical measurement as a unitary involving a measurement probe, investigating imperfect timekeeping on encoding and decoding and considering the role of temperature in Bob's appended qubits. In doing so, we derive fidelity bounds for this protocol involving the correlations Alice can form with their measurement probe, the variance of the clock's ticks and the temperature of Bob's qubits. Finally, we give an insight into the entropy produced by these two agents throughout the compression protocol by relating the resources they use to a quantum thermodynamic cooling protocol.
 
 ---
 

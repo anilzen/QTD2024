@@ -54,6 +54,11 @@ design:
     </thead>
     <tbody>
       <tr>
+        <td>8:00 - 9:00</td>
+        <td class="break">Registration opens</td>
+        <td class="break" colspan="4"></td>
+      </tr>
+      <tr>
         <td>9:00 - 9:40</td>
         <td rowspan="2">Welcome (~20 min)<br> <a href="/talk#irene-damico">Irene D'Amico</a></td>
         <td><a href="/talk#giulia-rubino">Giulia Rubino</a></td>
@@ -143,6 +148,14 @@ design:
         <td><a href="/talk#maciej-zgirski">Maciej Zgirski</a></td>
         <td><a href="/talk#philip-kurian">Philip Kurian</a></td>
         <td class="break" colspan="2"></td>
+      </tr>
+      <tr style="height: 100px;">
+        <td>17:00 - 19:00</td>
+        <td class="break"><a href="https://dining.umd.edu/catering/maryland-dairy">UMD's ice cream</a></td>
+        <td class="break">Reception at <a href="https://thehallcp.com">the Hall CP</a></td>
+        <td class="break"></td>
+        <td class="break">Poster session</td>
+        <td class="break"></td>
       </tr>
     </tbody>
   </table>
