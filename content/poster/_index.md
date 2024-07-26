@@ -42,6 +42,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Clemens Jakubec](#clemens-jakubec) | University of Arizona|
 | [Siddharth Jindal](#siddharth-jindal) | University of Houston|
 | [Mao Kaneyasu](#mao-kaneyasu) | The University of Tokyo|
+| [Anthony Kiely](#anthony-kiely) | University College Dublin|
 | [Henning Kirchberg](#henning-kirchberg) | Chalmers University of Technology|
 | [Sanah Rahman Kokkarani](#sanah-rahman-kokkarani) | Indian Institute of Space Science and Technology|
 | [Ankit Kumar](#ankit-kumar) | University of Gdansk|
@@ -347,6 +348,16 @@ The eigenstate thermalization hypothesis (ETH), the leading conjecture for the e
 #### Analyzing distribution of quantum resource under random noise
 Quantumness can be regarded as a resource available for various tasks. To realize the large-scale quantum information processing, it is essential to utilize such resources even under noisy environments.
 This research explores the effect the random noise gives to the quantum resource. We formalize the noisy channel using an ancillary system and a random unitary. The probability distribution of quantum coherence after passing through the random channel is derived based on the random matrix theory, and the distribution is verified by the numerical experiments.
+
+---
+
+### Anthony Kiely
+*University College Dublin*
+
+#### Universally Robust Quantum Control
+We study the robustness of the evolution of a quantum system against small uncontrolled variations in parameters in the Hamiltonian. We show that the fidelity susceptibility, which quantifies the perturbative error to leading order, can be expressed in superoperator form and use this to derive control pulses which are robust to any class of systematic unknown errors. The proposed optimal control protocol is equivalent to searching for a sequence of unitaries that mimics the first-order moments of the Haar distribution, i.e. it constitutes a 1-design. We highlight the power of our results for error resistant single- and two-qubit gates.
+
+Reference: [Phys. Rev. Lett. 132, 193801 (2024)](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.132.193801)
 
 ---
 
