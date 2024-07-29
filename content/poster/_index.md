@@ -22,7 +22,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Thales Augusto Barbosa Pinto Silva](#thales-augusto-barbosa-pinto-silva) | Technion|
 | [Konstantin Beyer](#konstantin-beyer) | Stevens Institute of Technology|
 | [Gianmichele Blasi](#gianmichele-blasi) | Université de Genève|
-| [William F. Braasch Jr.](#william-f.-braasch-jr.) | NIST|
+| [William F. Braasch Jr.](#william-f.-braasch-jr.) | UMD|
 | [Robert Coggins](#robert-coggins) | UMBC|
 | [Jakub Czartowski](#jakub-czartowski) | Jagiellonian University|
 | [Gabriella Damas](#gabriella-damas) | Phd student at UFG|
@@ -172,7 +172,7 @@ Transport in open quantum systems can be explored through various theoretical fr
 ---
 
 ### William F. Braasch Jr.
-*NIST*
+*UMD*
 
 #### Non-Abelian transport distinguishes three usually equivalent notions of entropy production
 We extend entropy production to a deeply quantum regime involving noncommuting conserved quantities. Consider a unitary transporting conserved quantities (“charges”) between two systems initialized in thermal states. Three common formulae model the entropy produced. They respectively cast entropy as an extensive thermodynamic variable, as an information-theoretic uncertainty measure, and as a quantifier of irreversibility. Often, the charges are assumed to commute with each other (e.g., energy and particle number). Yet quantum charges can fail to commute. Noncommutation invites generalizations, which we posit and justify, of the three formulae. Charges’ noncommutation, we find, breaks the formulae’s equivalence. Furthermore, different formulae quantify different physical effects of charges’ noncommutation on entropy production. For instance, entropy production can signal contextuality---true nonclassicality---by becoming nonreal. This work opens up stochastic thermodynamics to noncommuting---and so particularly quantum---charges.
