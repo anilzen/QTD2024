@@ -14,6 +14,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 
 | <h2>Presenter</h2> | <h2>Affiliation</h2> |
 | ------- | ----------- |
+| [Maxwell Aifer](#maxwell-aifer) | UMBC|
 | [Wynter Alford](#wynter-alford) | University of Rochester|
 | [Sinan Altinisik](#sinan-altinisik) | Universität Stuttgart|
 | [Tony John George Apollaro](#tony-john-george-apollaro) | University of Malta|
@@ -21,6 +22,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Thales Augusto Barbosa Pinto Silva](#thales-augusto-barbosa-pinto-silva) | Technion|
 | [Konstantin Beyer](#konstantin-beyer) | Stevens Institute of Technology|
 | [Gianmichele Blasi](#gianmichele-blasi) | Université de Genève|
+| [William F. Braasch Jr.](#william-f.-braasch-jr.) | NIST|
 | [Robert Coggins](#robert-coggins) | UMBC|
 | [Jakub Czartowski](#jakub-czartowski) | Jagiellonian University|
 | [Gabriella Damas](#gabriella-damas) | Phd student at UFG|
@@ -28,6 +30,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Alexssandre de Oliveira Junior](#alexssandre-de-oliveira-junior) | Technical University of Denmark|
 | [Emery Doucet](#emery-doucet) | UMBC|
 | [Abdelkader El Makouri](#abdelkader-el-makouri) | University Mohammed V in Rabat|
+| [Emily Ferketic](#emily-ferketic) | UMBC|
 | [Dario Ferraro](#dario-ferraro) | Università di Genova|
 | [Moállison Ferreira Cavalcante](#moállison-ferreira-cavalcante) | UMBC|
 | [Guilherme Fiusa](#guilherme-fiusa) | University of Rochester|
@@ -35,6 +38,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Safae Gaidi](#safae-gaidi) | university Mohamed V in Rabat|
 | [Shuvadip Ghosh](#shuvadip-ghosh) | Indian Institute of Technology Kanpur|
 | [Nikhil Gupt](#nikhil-gupt) | Indian Institute of Technology Kanpur|
+| [Sparsh Gupta](#sparsh-gupta) | ICTS-TIFR|
 | [Abhaya Hegde](#abhaya-hegde) | University of Rochester|
 | [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
 | [Semih Hüner](#semih-hüner) | University of Stuttgart|
@@ -50,11 +54,13 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Maximilian Lock](#maximilian-lock) | Atominstitut, TU Wien|
 | [Ivana Lucena](#ivana-lucena) | UFPB|
 | [Jinghao Lyu](#jinghao-lyu) | University of California, Davis|
+| [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
 | [José Antonio Marín Guzmán](#josé-antonio-marín-guzmán) | University of Maryland, College Park|
 | [Paweł Mazurek](#paweł-mazurek) | University of Gdansk|
 | [Paul Menczel](#paul-menczel) | RIKEN|
-| [Jon Miller](#jon-miller) | UMBC|
+| [Jonathan Miller](#jonathan-miller) | UMBC|
 | [Nathan Myers](#nathan-myers) | Virginia Tech|
+| [Zakaria Mzaouali](#zakaria-mzaouali) | Polish Academy of Sciences|
 | [Carlos Neto](#carlos-neto) | Federal University of Paraíba|
 | [Maicol Ochoa](#maicol-ochoa) | University of Maryland CP|
 | [Hamza Patwa](#hamza-patwa) | Quantum Biology Laboratory, Howard University|
@@ -63,10 +69,12 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Harini Radhakrishnan](#harini-radhakrishnan) | University of Tennessee-Knoxville|
 | [Rohit Kishan Ray](#rohit-kishan-ray) | Institute for Basic Science|
 | [Tom Rivlin](#tom-rivlin) | TU Wien|
+| [Reece Robertson](#reece-robertson) | UMBC|
 | [Alberto Rosal](#alberto-rosal) | University of Rochester|
 | [Dominik Šafránek](#dominik-šafránek) | Institute for Basic Science|
 | [Rishav Sagar](#rishav-sagar) | University of Gdansk|
 | [Tanmay Saha](#tanmay-saha) | The Institute of Mathematical Sciences|
+| [Kiera Salice](#kiera-salice) | University of Houston|
 | [Pratik Sathe](#pratik-sathe) | Los Alamos National Laboratory|
 | [Lodovico Scarpa](#lodovico-scarpa) | University of Oxford|
 | [Annie Schwartz](#annie-schwartz) | University of Rochester|
@@ -80,19 +88,26 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Gabriel Tellez](#gabriel-tellez) | Universidad de los Andes|
 | [Ludovico Tesser](#ludovico-tesser) | Chalmers University of Technology|
 | [Devvrat Tiwari](#devvrat-tiwari) | Indian Institute of Technology Jodhpur|
+| [Devjyoti Tripathy](#devjyoti-tripathy) | UMBC|
 | [Yuxin Wang](#yuxin-wang) | University of Maryland, College Park|
 | [Maggie Williams](#maggie-williams) | UMBC|
 | [Marek Winczewski](#marek-winczewski) | University of Gdańsk|
 | [Yuxin Wu](#yuxin-wu) | Peking University|
 | [Jake Xuereb](#jake-xuereb) | Atominstitut, TU Wien|
-| [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
-| [Jonathan Miller](#jonathan-miller) | UMBC|
-| [Sparsh Gupta](#sparsh-gupta) | ICTS-TIFR|
-| [Zakaria Mzaouali](#zakaria-mzaouali) | Polish Academy of Sciences|
 
 ---
 
 # Poster Titles and Abstracts
+
+### Maxwell Aifer
+*UMBC*
+
+#### Thermodynamic Linear Algebra
+Linear algebraic primitives are at the core of many modern algorithms in engineering, science, and machine learning. Hence, accelerating these primitives with novel computing hardware would have tremendous economic impact. Quantum computing has been proposed for this purpose, although the resource requirements are far beyond current technological capabilities, so this approach remains long-term in timescale. Here we consider an alternative physics-based computing paradigm based on classical thermodynamics, to provide a near-term approach to accelerating linear algebra.
+At first sight, thermodynamics and linear algebra seem to be unrelated fields. In this work, we connect solving linear algebra problems to sampling from the thermodynamic equilibrium distribution of a system of coupled harmonic oscillators. We present simple thermodynamic algorithms for (1) solving linear systems of equations, (2) computing matrix inverses, (3) computing matrix determinants, and (4) solving Lyapunov equations. Under reasonable assumptions, we rigorously establish asymptotic speedups for our algorithms, relative to digital methods, that scale linearly in matrix dimension. Our algorithms exploit thermodynamic principles like ergodicity, entropy, and equilibration, highlighting the deep connection between these two seemingly distinct fields, and opening up algebraic applications for thermodynamic computing hardware.
+
+
+---
 
 ### Wynter Alford
 *University of Rochester*
@@ -155,6 +170,15 @@ Here, we propose a quantum Jarzynski relation that is valid for externally and c
 Transport in open quantum systems can be explored through various theoretical frameworks, including the quantum master equation, scattering matrix, and Heisenberg equation of motion. The choice of framework depends on factors such as the presence of interactions, the coupling strength between the system and environment, and whether the focus is on steady-state or transient regimes. Existing literature treats these frameworks independently, lacking a unified perspective. Our work addresses this gap by clarifying the role and status of these approaches using a minimal single-level quantum dot model in a two-terminal setup under voltage and temperature biases. We derive analytical expressions for particle and energy currents and their fluctuations in both steady-state and transient regimes. Exact results from the Heisenberg equation are shown to align with scattering matrix and master equation approaches within their respective validity regimes. Crucially, we establish a protocol for the weak-coupling limit, bridging the applicability of master equations at weak-coupling with Heisenberg or scattering matrix approaches at arbitrary coupling strength.
 
 ---
+
+### William F. Braasch Jr.
+*NIST*
+
+#### Non-Abelian transport distinguishes three usually equivalent notions of entropy production
+We extend entropy production to a deeply quantum regime involving noncommuting conserved quantities. Consider a unitary transporting conserved quantities (“charges”) between two systems initialized in thermal states. Three common formulae model the entropy produced. They respectively cast entropy as an extensive thermodynamic variable, as an information-theoretic uncertainty measure, and as a quantifier of irreversibility. Often, the charges are assumed to commute with each other (e.g., energy and particle number). Yet quantum charges can fail to commute. Noncommutation invites generalizations, which we posit and justify, of the three formulae. Charges’ noncommutation, we find, breaks the formulae’s equivalence. Furthermore, different formulae quantify different physical effects of charges’ noncommutation on entropy production. For instance, entropy production can signal contextuality---true nonclassicality---by becoming nonreal. This work opens up stochastic thermodynamics to noncommuting---and so particularly quantum---charges.
+
+---
+
 
 ### Robert Coggins
 *UMBC*
@@ -224,6 +248,15 @@ When we replace the hot heat bath with, e.g., a quantum projective measurement, 
 
 
 When the engine is not monitored, I find that to maintain coherence, one should use Kirkwood-Dirac quasi-probability [11,12,13]. The latter satisfies all the Kolmogorov axioms, except that it can be negative and even a complex number. I give the general expression of the first two cumulants of the thermodynamic quantities for arbitrary unitaries characterizing the adiabatic strokes and arbitrary unital channels [14]. My detailed study gives a comparison between the dephased and undephased engines. The study revealed that when coherence is not erased, the system can work as a heat engine even in the usually-not-allowed regime. My work shows that non-adiabatic transitions are not always harmful and that they can be used advantageously. Furthermore, I show an upper bound on work reliability either for the dephased or undephased engine. My study, I believe, would be important to quantum engines and refrigerators fueled by quantum measurement.
+
+
+---
+
+### Emily Ferketic
+*UMBC*
+
+#### Transitionless quantum dynamics in interacting qubits
+Driving quantum systems in finite time causes transitions between instantaneous eigenstates. To counteract these often undesirable excitations, shortcuts to adiabaticty have proven themselves to be powerful and effective. In particular, counterdiabatic driving suppresses all excitations away from the adiabatic manifold at all instants. In our work, we apply this strategy to a system of two coupled qubits, in which only one is driven by an external field. This is the simplest example of systems with interacting qubits, which are only locally perturbed.
 
 ---
 
@@ -451,7 +484,7 @@ The quantum jump method provides access to both the theoretical analysis and the
 
 ---
 
-### Jon Miller
+### Jonathan Miller
 *UMBC*
 
 #### Quantum Information Scrambling in nonlinearly coupled oscillators
@@ -536,6 +569,14 @@ The challenge of understanding quantum measurement persists as a fundamental iss
 
 ---
 
+### Reece Robertson
+*UMBC*
+
+#### Performance of Simon's algorithm in the NISQ era
+Simon’s algorithm was one of the first to demonstrate a divergence in complexity between the quantum and classical computational paradigms. The algorithm, however, assumes access to noise-free qubits—a dream which has not yet been realized. In our work we use Simon’s algorithm to benchmark the error rates of devices currently available in the ""quantum cloud"". As a main result we obtain an objective comparison between the different physical platforms. It is observed that the error scales linearly on IonQ trapped ion computers, while IBM superconducting computers experience a superlinear jump in error at the 8-12 qubit range. However, all computers show significant error (≥ 25%) at large scales. This indicates the extent of improvement needed in quantum hardware and error mitigation before algorithms like Simon's can be run with advantage at large scales.
+
+---
+
 ### Alberto Rosal
 *University of Rochester*
 
@@ -567,6 +608,15 @@ We consider a two stroke refrigerator in the microscopic regime. The refrigerato
 #### Quantum homogenization in non-Markovian collisional model
 Collisional models are a category of microscopic framework designed to study open quantum systems. The framework involves a system sequentially interacting with a bath comprised of identically prepared units. In this regard, quantum homogenization is a process where the system state approaches the identically prepared state of bath unit in the asymptotic limit. Here, we study the homogenization process for a single qubit in the non-Markovian collisional model framework generated via additional bath-bath interaction. With partial swap operation as both system-bath and bath-bath unitary, we numerically demonstrate that homogenization is achieved irrespective of the initial states of the system or bath units. This is reminiscent of the Markovian scenario, where partial swap is the unique operation for a universal quantum homogenizer. On the other hand, we observe that the rate of homogenization is slower than its Markovian counter part. Interestingly, a different choice of bath-bath unitary speeds up the homogenization process but
 loses the universality, being dependent on the initial states of the bath units.
+
+---
+
+### Kiera Salice
+*University of Houston*
+
+#### On the Origin of Classicality: Robust Quantification and Experimental Verification of Quantum Darwinism
+Quantum Darwinism is a physical framework that explains the emergence of our classical experience from the quantum substrate. In this poster, we outline a comprehensive experimental implementation of the foundational ideas of Quantum Darwinism including the emergence of branching structures and the emergence of classicality through information-theoretic quantities such as, the mutual information, quantum discord and the Holevo quantity. Additionally, we propose a class of local observables as a novel quantifier for probing quantum-to-classical transitions. This quantity constitutes an experimentally efficient method of observing the emergence of classicality. We provide both a mathematical proof and experimental verification for this quantity. This work further positions Quantum Darwinism as a leading theory in addressing the elusive quantum-to-classical transition.
+
 
 ---
 
@@ -696,6 +746,16 @@ We provide the exact dynamics of a central spin interacting uniformly with a spi
 
 ---
 
+### Devjyoti Tripathy
+*UMBC*
+
+#### Quantum speed limited chaos
+The quantum speed limit (QSL) characterizes the maximal rate of quantum evolution. As such, it appears obvious that the QSL can also be exploited to estimate the change in observables. In this work, we derive a QSL for Out-of-time
+Ordered Correlators (OTOCs), which in chaotic dynamics are described by the quantum Lyapunov exponents. For such dynamics, we express the QSL as a function of these Lyapunov exponents, which highlights the significance of the QSL also in chaotic systems. Our results are illustrated for several instances of two-dimensional Bose-Hubbard lattices.
+
+
+---
+
 ### Yuxin Wang
 *University of Maryland, College Park*
 
@@ -761,14 +821,6 @@ Whilst this work is not yet on the arXiv, we aim to upload it during QTD2024.
 
 #### Unveiling Detuning Effects for Heat-Current Control in Quantum Thermal Devices
 Navigating the intricacies of thermal management at the quantum scale is a challenge in the pursuit of advanced nanoscale technologies. To this extent, theoretical frameworks introducing minimal models mirroring the functionality of electronic current amplifiers and transistors, for instance, have been proposed. Different architectures of the subsystems composing a quantum thermal device can be considered, tacitly bringing drawbacks or advantages if properly engineered.This paper extends the prior research on thermotronics, studying a strongly coupled three-subsystem thermal device with a specific emphasis on a third excited level in the control subsystem. Our setup can be employed as a multipurpose device conditioned on the specific choice of internal parameters: heat switch, rectifier, stabilizer, and amplifier. The exploration of the detuned levels unveils a key role in the performance and working regime of the device. We observe a stable and strong amplification effect persisting over broad ranges of temperature. We conclude that considering a three-level system, as the one directly in contact with the control temperature, boosts output currents and the ability to operate our devices as a switch at various temperatures. 
-
----
-
-### Jonathan Miller
-*UMBC*
-
-#### Quantum Information Scrambling in nonlinearly coupled oscillators
-In its modern phrasing, quantum chaos refers to the exponentially fast scrambling of information through quantum many-body systems. A natural question arises: does this notion also apply to less complex scenarios? To this end, we explore nonlinear scrambling of quantum information in a family of models of two-coupled harmonic oscillators. In particular, we numerically explore signatures of quantum chaos in these models using the Out-of-Time-Ordered Correlator. Our results exhibit the early time exponential increase of this correlation function, from which we can deduce the quantum Lyapunov exponents that characterize quantum chaos in these models.
 
 ---
 
