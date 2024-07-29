@@ -14,7 +14,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 
 | <h2>Presenter</h2> | <h2>Affiliation</h2> |
 | ------- | ----------- |
-| [Maxwell Aifer](#maxwell-aifer) | UMBC|
+| [Maxwell Aifer](#maxwell-aifer) | UMBC/Normal Computing|
 | [Wynter Alford](#wynter-alford) | University of Rochester|
 | [Sinan Altinisik](#sinan-altinisik) | Universität Stuttgart|
 | [Tony John George Apollaro](#tony-john-george-apollaro) | University of Malta|
