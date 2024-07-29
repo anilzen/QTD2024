@@ -89,11 +89,11 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | [Ludovico Tesser](#ludovico-tesser) | Chalmers University of Technology|
 | [Devvrat Tiwari](#devvrat-tiwari) | Indian Institute of Technology Jodhpur|
 | [Devjyoti Tripathy](#devjyoti-tripathy) | UMBC|
+| [Jake Xuereb](#jake-xuereb) | Atominstitut, TU Wien|
 | [Yuxin Wang](#yuxin-wang) | University of Maryland, College Park|
 | [Maggie Williams](#maggie-williams) | UMBC|
 | [Marek Winczewski](#marek-winczewski) | University of Gdańsk|
 | [Yuxin Wu](#yuxin-wu) | Peking University|
-| [Jake Xuereb](#jake-xuereb) | Atominstitut, TU Wien|
 
 ---
 
@@ -753,6 +753,31 @@ We provide the exact dynamics of a central spin interacting uniformly with a spi
 The quantum speed limit (QSL) characterizes the maximal rate of quantum evolution. As such, it appears obvious that the QSL can also be exploited to estimate the change in observables. In this work, we derive a QSL for Out-of-time
 Ordered Correlators (OTOCs), which in chaotic dynamics are described by the quantum Lyapunov exponents. For such dynamics, we express the QSL as a function of these Lyapunov exponents, which highlights the significance of the QSL also in chaotic systems. Our results are illustrated for several instances of two-dimensional Bose-Hubbard lattices.
 
+---
+
+### Jake Xuereb
+*Atominstitut, TU Wien*
+
+#### The Role of Knowledge in Quantum Thermodynamics
+In classical thermodynamics and statistical mechanics, the knowledge an agent possesses of a system they wish to manipulate plays a central role. If an ideal gas is in a piston and the agent is only able to access coarse-grained quantities like pressure and volume, then this agent is known to be able to extract less work from this system than a demon possessing knowledge of the momenta of each particle in this gas. In quantum thermodynamics we are lacking an analogous understanding of the role of knowledge. In particular;
+
+i) What resources (control, memory, correlations…) must an agent spend to acquire knowledge of a quantum state?
+ii) How does the knowledge of the agent limit their ability to transform the state of the system?
+
+In this work we answer these questions by developing a thermodynamic framework that connects knowledge acquisition and state transformation. Our approach ties together and makes use of resource theory [1], von Neumann measurements with thermal probes [2] and optimal cloning machines [3,4]. 
+
+We consider a setting where an agent is studying a quantum system in a fixed state which is unknown to them. The goal of the agent, who has access to a finite number of copies of this unknown state, is to interact with some of these copies to obtain an estimate of the unknown state and using the knowledge gained transform the remaining copies to achieve a goal (e.g. work extraction). The agent is able to estimate this state in a sequential scenario where they correlate the unknown copies with ancillae one at a time, allowing them to obtain knowledge of the system by sampling the ancillae which act as a memory. We investigate the resources (no. of copies, rank of ancilla, thermality of ancilla, correlations) required for the agent to estimate the state of the system up to a given fidelity.  Comparing this with a single-shot scenario using an optimal cloning machine which gives the best possible state estimate under the rules of quantum mechanics, we lower bound the cost of obtaining optimal knowledge of the state of the system.
+
+We then illustrate these results by examining how the space of states the agent can transform the system into under the free operations of a resource theory (namely thermal operations and LOCC operations) changes depending on the thermodynamic resources invested to acquire this knowledge. The more knowledge, the lower the entropy of the estimated state and the more states the agent can transform the system to.
+
+With this work we aim to connect state estimation to quantum thermodynamics in a novel way which can inform firstly how we think of agents in quantum theory and secondly what resources lie behind operations that are deemed to be free. As they are only free to agents possessing the knowledge to see these operations as free.
+
+Whilst this work is not yet on the arXiv, we aim to upload it during QTD2024.
+
+[1] - Quantum resource theories, E. Chitambar and G. Gour, Rev. Mod. Phys. 91, 025001 (2019)
+[2] - Ideal Projective Measurements Have Infinite Resource Cost, Y. Guryanova, N. Friis, M. Huber, Quantum 4, 222 (2020)
+[3] - Quantum Cloning, V. Scarani, S. Iblisdir, N. Gisin, A. Acin, Rev. Mod. Phys. 77, 1225 (2005)
+[4] -  Asymptotic Quantum Cloning is State Estimation, J. Bae, A. Acin, Phys. Rev. Lett. 97, 030402 (2006)
 
 ---
 
@@ -787,32 +812,6 @@ The famous Davies-GKSL secular Markovian master equation is tremendously success
 
 #### Scaling relations for finite-time first-order phase transition
 The theory of equilibrium phase transition, which traditionally does not involve time evolution, concerns only static quantities. In recent decades, owing to the development of nonequilibrium thermodynamics, there is a growing interest in nonequilibrium phase transition which concerns time evolution. It is well-known that in the absence of phase transitions, the excess work resulted from finite-rate quench is proportional to the quench rate $v$. The time evolution in a second-order phase transition can be understood via the Kibble-Zurek mechanism, and the scaling of work is related to the critical exponents. Nevertheless, the finite-time nonequilibrium thermodynamics of the first-order phase transition remains largely unexplored. We investigate the scaling relations of some thermodynamic quantities with the quench rate in the first-order phase transition. It is shown that the excess work scales as $v^{2/3}$ for small quench rate. Moreover, the delay time and the transition time scale as $v^{-1/3}$. Our study deepens the understanding about the nonequilibrium thermodynamics of the first-order phase transition.
-
----
-
-### Jake Xuereb
-*Atominstitut, TU Wien*
-
-#### The Role of Knowledge in Quantum Thermodynamics
-In classical thermodynamics and statistical mechanics, the knowledge an agent possesses of a system they wish to manipulate plays a central role. If an ideal gas is in a piston and the agent is only able to access coarse-grained quantities like pressure and volume, then this agent is known to be able to extract less work from this system than a demon possessing knowledge of the momenta of each particle in this gas. In quantum thermodynamics we are lacking an analogous understanding of the role of knowledge. In particular;
-
-i) What resources (control, memory, correlations…) must an agent spend to acquire knowledge of a quantum state?
-ii) How does the knowledge of the agent limit their ability to transform the state of the system?
-
-In this work we answer these questions by developing a thermodynamic framework that connects knowledge acquisition and state transformation. Our approach ties together and makes use of resource theory [1], von Neumann measurements with thermal probes [2] and optimal cloning machines [3,4]. 
-
-We consider a setting where an agent is studying a quantum system in a fixed state which is unknown to them. The goal of the agent, who has access to a finite number of copies of this unknown state, is to interact with some of these copies to obtain an estimate of the unknown state and using the knowledge gained transform the remaining copies to achieve a goal (e.g. work extraction). The agent is able to estimate this state in a sequential scenario where they correlate the unknown copies with ancillae one at a time, allowing them to obtain knowledge of the system by sampling the ancillae which act as a memory. We investigate the resources (no. of copies, rank of ancilla, thermality of ancilla, correlations) required for the agent to estimate the state of the system up to a given fidelity.  Comparing this with a single-shot scenario using an optimal cloning machine which gives the best possible state estimate under the rules of quantum mechanics, we lower bound the cost of obtaining optimal knowledge of the state of the system.
-
-We then illustrate these results by examining how the space of states the agent can transform the system into under the free operations of a resource theory (namely thermal operations and LOCC operations) changes depending on the thermodynamic resources invested to acquire this knowledge. The more knowledge, the lower the entropy of the estimated state and the more states the agent can transform the system to.
-
-With this work we aim to connect state estimation to quantum thermodynamics in a novel way which can inform firstly how we think of agents in quantum theory and secondly what resources lie behind operations that are deemed to be free. As they are only free to agents possessing the knowledge to see these operations as free.
-
-Whilst this work is not yet on the arXiv, we aim to upload it during QTD2024.
-
-[1] - Quantum resource theories, E. Chitambar and G. Gour, Rev. Mod. Phys. 91, 025001 (2019)
-[2] - Ideal Projective Measurements Have Infinite Resource Cost, Y. Guryanova, N. Friis, M. Huber, Quantum 4, 222 (2020)
-[3] - Quantum Cloning, V. Scarani, S. Iblisdir, N. Gisin, A. Acin, Rev. Mod. Phys. 77, 1225 (2005)
-[4] -  Asymptotic Quantum Cloning is State Estimation, J. Bae, A. Acin, Phys. Rev. Lett. 97, 030402 (2006)
 
 ---
 
