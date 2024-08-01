@@ -22,4 +22,4 @@ Certain [roads](https://admin.umd.edu/sites/default/files/2024-05/2024-05-30%20P
 
 Below is a map of relevant locations for the conference.
 
-![QTD 24 Location Map](QTD24Locations.png "QTD24 Locations")
+![QTD 24 Location Map](QTD24Locations.webp "QTD24 Locations")
