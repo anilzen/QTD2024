@@ -97,7 +97,7 @@ design:
         <td>11:40 - 12:05</td>
         <td><a href="/talk#stefan-aimet">Stefan Aimet</a></td>
         <td><a href="/talk#patryk-lipka-bartosik">Patryk Lipka-Bartosik</a></td>
-        <td><a href="/talk#laetitia-paula-bettmann">Laetitia Paula Bettmann</a></td>
+        <td><a href="/talk#finn-schmolke">Finn Schmolke</a></td>
         <td><a href="/talk#lindsay-bassman-oftelie">Lindsay Bassman Oftelie</a></td>
         <td><a href="/talk#amanda-younes">Amanda Younes</a></td>
       </tr>
@@ -139,7 +139,7 @@ design:
       </tr>
       <tr>
         <td>16:00 - 16:25</td>
-        <td><a href="/talk#finn-schmolke">Finn Schmolke</a></td>
+        <td><a href="/talk#laetitia-paula-bettmann">Laetitia Paula Bettmann</a></td>
         <td><a href="/talk#felix-binder">Felix Binder</a></td>
         <td><a href="/talk#guilherme-de-sousa">Guilherme de Sousa</a></td>
       </tr>
