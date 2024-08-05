@@ -94,6 +94,11 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | 78. [Maggie Williams](#maggie-williams) | UMBC|
 | 79. [Marek Winczewski](#marek-winczewski) | University of Gdańsk|
 | 80. [Yuxin Wu](#yuxin-wu) | Peking University|
+| 81. [Alexandria Udenkwo](#alexandria-udenkwo) | Washington University in St. Louis|
+| 82. [Sangyun Lee](#sangyun-lee) | University of Maryland & Korea Institute For Advanced Study|
+| 83. [Marcin Łobejko](#marcin-łobejko) | University of Gdansk|
+| 84. [Sanghita Sengupta](#sanghita-sengupta) | Howard University|
+
 
 ---
 
@@ -837,5 +842,42 @@ In this work, our objective is to investigate the response of a quasiperiodic sy
 #### Efficiency Optimization in Quantum Computing: Balancing Thermodynamics and Computational Performance
 We investigate the computational efficiency and thermodynamic cost of the D-Wave quantum annealer under reverse-annealing with and without pausing. Our experimental results demonstrate that the combination of reverse-annealing and pausing leads to improved computational efficiency while minimizing the thermodynamic cost compared to reverse-annealing alone. Moreover, we find that the magnetic field has a positive impact on the performance of the quantum annealer during reverse-annealing but becomes detrimental when pausing is involved. Our results provide strategies for optimizing the performance and energy consumption of quantum annealing systems employing reverse-annealing protocols. 
 
+---
+
+### Alexandria Udenkwo
+*Washington University in St. Louis*
+
+#### Characterizing the energy and efficiency of an entanglement fueled engine in a circuit QED processor
+As the NISQ era of quantum technologies requires robust error correcting protocols, the role and limits of local measurement and feedback become incredibly important. To help elucidate the fundamental limits of quantum measurement and feedback, we investigate the thermodynamic consequences of such operations in the context of fueling an engine. Critical to the engine’s operation is the measurement observable not commuting with the system Hamiltonian, wherein a net change in the energy of the system is predicted to occur. In some cases, local measurement does not commute with the global Hamiltonian, leading to collapse of entanglement in a system. For our case, this collapse breaks the binding energy within the system, which gives an energy change that serves as the engine’s fuel. Hence, a cycle can be implemented to facilitate energy exchanges between the system and measurement apparatus. Understanding these energy flows is of importance for the implementation of error correction in quantum devices. We realize the engine using circuit-QED architecture, with a chain of three transmon qubits. We study the energy and entropy transfers between system and measurement apparatus as well as the efficiency of the engine, determined by the ratio of energy extracted and the entropy produced.
+
+---
+
+### Sangyun Lee
+*University of Maryland & Korea Institute For Advanced Study*
+
+#### Detecting area laws for entanglement entropy via machine learning
+Entropy is an important quantity in various research fields from information theory to quantum thermodynamics. Because of its importance, there are various efforts to estimate the entropy. However, it turned out that entropy is one of the thermodynamic quantities under the curse of dimensionality. In the case of quantum entropies, quantumness adds another layer of difficulty. 
+In this talk, I present a novel method to estimate quantum entropies. We employ a deep neural network that has shown high performance with high dimensional data and combine the neural network with quantum circuits. Our method shows high accuracy with enough data. Because this method is based on a quantum entropy bound, our method can be used as a quantum-phase classifier even with a small data set. We verified our algorithm on a XXZ chain model. This research is accepted in physical review E.
+
+
+---
+
+### Marcin Łobejko
+*University of Gdansk*
+
+#### Work and Fluctuations: Coherent vs. Incoherent Ergotropy Extraction
+Extension of fluctuation theorems to a quantum domain presents a challenge that has been discussed by numerous authors, which typically requires the introduction of quasi-probabilities. In the study [1], I consider a similar path introducing a novel quasi-probability concept based on convolution operation; however, to recognize the purely quantum contributions, the framework is applied to work extraction via an explicit quantum battery defined by the ideal weight. Within this fully quantum setup, I study the difference between fluctuations in extraction of the coherent and incoherent part of the system’s ergotropy. It is revealed that while coherent extraction can diminish fluctuations in the weight, its absolute value must diverge as more work is extracted. Conversely, the opposite holds true for the extraction of incoherent ergotropy. These findings reveal the connections between three approaches to quantum fluctuations: work operator (W), two-point measurement (TPM), and the newly introduced quasi-probability (QP). Notably, based on these results, I was able to identify a purely quantum contribution that emerges for non-classical states of the battery, directly responsible for reducing work fluctuations (impossible to capture within the frameworks with implicit battery).
+
+[1] Marcin Lobejko. Work and Fluctuations: Coherent vs. Incoherent Ergotropy Extraction. Quantum, 6:762, July 2022. ISSN 2521-327X. doi:10.22331/q-2022-07-14-762.
+URL https://doi.org/10.22331/q-2022-07-14-762
+
+
+---
+
+### Sanghita Sengupta
+*Howard University*
+
+#### Exploring growth dynamics and critical phenomena in the agential decision-making behaviors of Physarum polycephalum
+We investigate the growth dynamics and agential decision-making behaviors of Physarum polycephalum, a single-celled, multinucleate slime mold known for its remarkable problem-solving capabilities, despite lacking neuronal connections. Employing graph-theoretic methods with a special focus on edges connecting nodes (vertices), we analyze variations in network features across diverse biological strains and quantify parameters relative to the organism's age (from sclerotia revival) and nutrient availability. Our exploration of the hierarchical network of tubular veins within Physarum polycephalum aims to unveil the mechanisms underpinning its information-processing capabilities. Additionally, we investigate mass sensing, morphological changes related to the area and perimeter of the organismic growth, and energy flow within the network to elucidate thermodynamic optimization principles, facilitating the analysis of how network structures at different scales of self-organization evolve in the course of hours for efficient energy and information transfer. Furthermore, our inquiry investigates critical phenomena in these network dynamics, with a focus on phase transitions and emergent critical behavior. This research enriches our understanding of the physical principles governing the emergence of complexity in aneural biological systems operating far from thermal equilibrium.
 
 ---
