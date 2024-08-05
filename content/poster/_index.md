@@ -98,8 +98,7 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | 82. [Sangyun Lee](#sangyun-lee) | University of Maryland & Korea Institute For Advanced Study|
 | 83. [Marcin Łobejko](#marcin-łobejko) | University of Gdansk|
 | 84. [Sanghita Sengupta](#sanghita-sengupta) | Howard University|
-
-
+| 85. [Cameron Witkowski](#cameron-witkowski) | University of Toronto|
 ---
 
 # Poster Titles and Abstracts
@@ -879,5 +878,14 @@ URL https://doi.org/10.22331/q-2022-07-14-762
 
 #### Exploring growth dynamics and critical phenomena in the agential decision-making behaviors of Physarum polycephalum
 We investigate the growth dynamics and agential decision-making behaviors of Physarum polycephalum, a single-celled, multinucleate slime mold known for its remarkable problem-solving capabilities, despite lacking neuronal connections. Employing graph-theoretic methods with a special focus on edges connecting nodes (vertices), we analyze variations in network features across diverse biological strains and quantify parameters relative to the organism's age (from sclerotia revival) and nutrient availability. Our exploration of the hierarchical network of tubular veins within Physarum polycephalum aims to unveil the mechanisms underpinning its information-processing capabilities. Additionally, we investigate mass sensing, morphological changes related to the area and perimeter of the organismic growth, and energy flow within the network to elucidate thermodynamic optimization principles, facilitating the analysis of how network structures at different scales of self-organization evolve in the course of hours for efficient energy and information transfer. Furthermore, our inquiry investigates critical phenomena in these network dynamics, with a focus on phase transitions and emergent critical behavior. This research enriches our understanding of the physical principles governing the emergence of complexity in aneural biological systems operating far from thermal equilibrium.
+
+---
+
+### Cameron Witkowski
+*University of Toronto*
+
+#### On the Precise Link Between Energy and Information
+We present a modified version of the Szilard engine, demonstrating that an explicit measurement procedure is entirely unnecessary for its operation. By considering our modified engine, we are able to provide a new interpretation of Landauer’s original argument for the cost of erasure. From this view, we demonstrate that a reset operation is strictly impossible in a dynamical system with only conservative forces. Then, we prove that approaching a reset yields an unavoidable instability at the reset point. Finally, we present an original proof of Landauer’s principle that is completely independent from the Second Law of thermodynamics.
+
 
 ---
