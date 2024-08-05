@@ -103,13 +103,13 @@ design:
       </tr>
       <tr>
         <td>12:05 - 12:30</td>
-        <td class="break"rowspan="2" colspan="2">Lunch</td>
+        <td class="break" rowspan="2" colspan="2">Lunch</td>
         <td><a href="/talk#david-gelbwaser-klimovsky">David Gelbwaser-Klimovsky</a></td>
         <td class="break" rowspan="2" colspan="2">Lunch</td>
       </tr>
       <tr>
         <td>12:30 - 13:45</td>
-        <td class="break" rowspan="7">Free Afternoon</td>
+        <td class="break" rowspan="9">Free Afternoon</td>
       </tr>
       <tr>
         <td>13:45 - 14:25</td>
@@ -147,15 +147,18 @@ design:
         <td>16:25 - 16:50</td>
         <td><a href="/talk#maciej-zgirski">Maciej Zgirski</a></td>
         <td><a href="/talk#philip-kurian">Philip Kurian</a></td>
-        <td class="break" colspan="2"></td>
+        <td class="break"></td>
+        <td class="break" rowspan="3"></td>
       </tr>
-      <tr style="height: 100px;">
-        <td>17:00 - 19:00</td>
-        <td class="break"><a href="https://dining.umd.edu/catering/maryland-dairy">UMD's ice cream</a></td>
+      <tr>
+        <td>17:00 - 18:00</td>
+        <td class="break" rowspan="2"><a href="https://dining.umd.edu/catering/maryland-dairy">UMD's ice cream</a></td>
+        <td class="break"></td>
+        <td class="break" rowspan="2">Poster session</td>
+      </tr>
+      <tr>
+        <td>18:00 - 19:00</td>
         <td class="break">Reception at <a href="https://thehallcp.com">the Hall CP</a></td>
-        <td class="break"></td>
-        <td class="break">Poster session</td>
-        <td class="break"></td>
       </tr>
     </tbody>
   </table>
