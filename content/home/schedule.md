@@ -109,12 +109,13 @@ design:
       </tr>
       <tr>
         <td>12:30 - 13:45</td>
-        <td class="break" rowspan="9">Free Afternoon</td>
+        <td class="break">Lunch</td>
       </tr>
       <tr>
         <td>13:45 - 14:25</td>
         <td><a href="/talk#marcos-rigol">Marcos Rigol</a></td>
         <td><a href="/talk#stefan-nimmrichter">Stefan Nimmrichter</a></td>
+        <td class="break" rowspan="8">Free Afternoon</td>
         <td><a href="/talk#matteo-lostaglio">Matteo Lostaglio</a></td>
         <td><a href="/talk#fabio-anza">Fabio Anza</a></td>
       </tr>
