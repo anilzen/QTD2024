@@ -12,5 +12,5 @@ design:
   css_class:
 ---
 
-| ![All participants on the stairs of ESJ](uploads/Stairs.jpg) | ![The panel](uploads/Panel.jpg) |
-|------------------------|------------------------|
+| ![All participants on the stairs of ESJ](uploads/Stairs0.jpg) | ![All participants on the stairs of ESJ](uploads/Stairs.jpg) | ![The panel](uploads/Panel.jpg) |
+|---------|---------|---------|
