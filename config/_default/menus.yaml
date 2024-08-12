@@ -7,6 +7,9 @@ main:
   - name: Home
     url: '#welcome'
     weight: 10
+  - name: Photos
+    url: '#photos'
+    weight: 15
   - name: Schedule
     url: '#schedule'
     weight: 20

@@ -1,7 +1,7 @@
 ---
 widget: hero 
 headless: true # This file represents a page section.
-weight: 30 # Order that this section will appear.
+weight: 22 # Order that this section will appear.
 title: Schedule
 # hero_media: QTD-Map.jpg
 design:

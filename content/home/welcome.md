@@ -15,7 +15,8 @@ design:
   css_style:
   css_class:
 ---
-QTD 2024 is the annual conference on quantum thermodynamics held in person at the [University of Maryland](https://umd.edu), College Park, MD. The conference will be hosted by the [Quantum Thermodynamics Hub](https://qtd-hub.umd.edu/). Our primary goal is to discuss recent advances in quantum thermodynamics, the field that studies thermodynamic processes at the quantum scale. The first edition of the conference was held in Berlin in 2013 and was followed by events in Mallorca, Porquerolles, Erice (QTD2016), Oxford 2017, Santa Barbara 2018, Espoo 2019, Barcelona (online) 2020, Geneva (online) 2021, Belfast (online) 2022, and Vienna 2023.
+
+QTD 2024 was an annual conference on quantum thermodynamics held in person at the [University of Maryland](https://umd.edu), College Park, MD. The conference was hosted by the [Quantum Thermodynamics Hub](https://qtd-hub.umd.edu/). Our primary goal was to discuss recent advances in quantum thermodynamics, the field that studies thermodynamic processes at the quantum scale. The first edition of the conference was held in Berlin in 2013 and was followed by events in Mallorca, Porquerolles, Erice (QTD2016), Oxford 2017, Santa Barbara 2018, Espoo 2019, Barcelona (online) 2020, Geneva (online) 2021, Belfast (online) 2022, and Vienna 2023.
 
 <!-- {{% callout note %}}
 Please submit your abstract using the [Google form](https://forms.gle/wBVJ9L99BH8y1RUVA).
