@@ -38,67 +38,68 @@ Posters should be smaller than 120 cm x 120 cm (48 inches x 48 inches).
 | 22. [Safae Gaidi](#safae-gaidi) | university Mohamed V in Rabat|
 | 23. [Shuvadip Ghosh](#shuvadip-ghosh) | Indian Institute of Technology Kanpur|
 | 24. [Nikhil Gupt](#nikhil-gupt) | Indian Institute of Technology Kanpur|
-| 25. [Sparsh Gupta](#sparsh-gupta) | ICTS-TIFR|
-| 26. [Abhaya Hegde](#abhaya-hegde) | University of Rochester|
-| 27. [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
-| 28. [Semih Hüner](#semih-hüner) | University of Stuttgart|
-| 29. [Nobumasa Ishida](#nobumasa-ishida) | University of Tokyo|
-| 30. [Clemens Jakubec](#clemens-jakubec) | University of Arizona|
-| 31. [Siddharth Jindal](#siddharth-jindal) | University of Houston|
-| 32. [Mao Kaneyasu](#mao-kaneyasu) | The University of Tokyo|
-| 33. [Anthony Kiely](#anthony-kiely) | University College Dublin|
-| 34. [Henning Kirchberg](#henning-kirchberg) | Chalmers University of Technology|
-| 35. [Sanah Rahman Kokkarani](#sanah-rahman-kokkarani) | Indian Institute of Space Science and Technology|
-| 36. [Ankit Kumar](#ankit-kumar) | University of Gdansk|
-| 37. [Aleksander Lasek](#aleksander-lasek) | UMD|
-| 38. [Maximilian Lock](#maximilian-lock) | Atominstitut, TU Wien|
-| 39. [Ivana Lucena](#ivana-lucena) | UFPB|
-| 40. [Jinghao Lyu](#jinghao-lyu) | University of California, Davis|
-| 41. [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
-| 42. [José Antonio Marín Guzmán](#josé-antonio-marín-guzmán) | University of Maryland, College Park|
-| 43. [Paweł Mazurek](#paweł-mazurek) | University of Gdansk|
-| 44. [Paul Menczel](#paul-menczel) | RIKEN|
-| 45. [Jonathan Miller](#jonathan-miller) | UMBC|
-| 46. [Nathan Myers](#nathan-myers) | Virginia Tech|
-| 47. [Zakaria Mzaouali](#zakaria-mzaouali) | Polish Academy of Sciences|
-| 48. [Carlos Neto](#carlos-neto) | Federal University of Paraíba|
-| 49. [Maicol Ochoa](#maicol-ochoa) | University of Maryland CP|
-| 50. [Hamza Patwa](#hamza-patwa) | Quantum Biology Laboratory, Howard University|
-| 51. [Kacper Prech](#kacper-prech) | University of Basel|
-| 52. [Eugenia Pyurbeeva](#eugenia-pyurbeeva) | Hebrew University of Jerusalem|
-| 53. [Harini Radhakrishnan](#harini-radhakrishnan) | University of Tennessee-Knoxville|
-| 54. [Rohit Kishan Ray](#rohit-kishan-ray) | Institute for Basic Science|
-| 55. [Tom Rivlin](#tom-rivlin) | TU Wien|
-| 56. [Reece Robertson](#reece-robertson) | UMBC|
-| 57. [Alberto Rosal](#alberto-rosal) | University of Rochester|
-| 58. [Dominik Šafránek](#dominik-šafránek) | Institute for Basic Science|
-| 59. [Rishav Sagar](#rishav-sagar) | University of Gdansk|
-| 60. [Tanmay Saha](#tanmay-saha) | The Institute of Mathematical Sciences|
-| 61. [Kiera Salice](#kiera-salice) | University of Houston|
-| 62. [Pratik Sathe](#pratik-sathe) | Los Alamos National Laboratory|
-| 63. [Lodovico Scarpa](#lodovico-scarpa) | University of Oxford|
-| 64. [Annie Schwartz](#annie-schwartz) | University of Rochester|
-| 65. [Tingzhang Shi](#tingzhang-shi) | Peking University|
-| 66. [Joseph Smiga](#joseph-smiga) | University of Rochester|
-| 67. [Jeongrak Son](#jeongrak-son) | Nanyang Technological University|
-| 68. [Akira Sone](#akira-sone) | University of Massachusetts Boston|
-| 69. [Sachin Sonkar](#sachin-sonkar) | Indian Institute of Science Education and Research(IISER)|
-| 70. [Shou-I Tang](#shou-i-tang) | University of Massachusetts Boston|
-| 71. [Aria Tauraso](#aria-tauraso) | UMBC|
-| 72. [Gabriel Tellez](#gabriel-tellez) | Universidad de los Andes|
-| 73. [Ludovico Tesser](#ludovico-tesser) | Chalmers University of Technology|
-| 74. [Devvrat Tiwari](#devvrat-tiwari) | Indian Institute of Technology Jodhpur|
-| 75. [Devjyoti Tripathy](#devjyoti-tripathy) | UMBC|
-| 76. [Jake Xuereb](#jake-xuereb) | Atominstitut, TU Wien|
-| 77. [Yuxin Wang](#yuxin-wang) | University of Maryland, College Park|
-| 78. [Maggie Williams](#maggie-williams) | UMBC|
-| 79. [Marek Winczewski](#marek-winczewski) | University of Gdańsk|
-| 80. [Yuxin Wu](#yuxin-wu) | Peking University|
-| 81. [Alexandria Udenkwo](#alexandria-udenkwo) | Washington University in St. Louis|
-| 82. [Sangyun Lee](#sangyun-lee) | University of Maryland & Korea Institute For Advanced Study|
-| 83. [Marcin Łobejko](#marcin-łobejko) | University of Gdansk|
-| 84. [Sanghita Sengupta](#sanghita-sengupta) | Howard University|
-| 85. [Cameron Witkowski](#cameron-witkowski) | University of Toronto|
+| 24. [Nikhil Gupt](#nikhil-gupt) | Indian Institute of Technology Kanpur|
+| 25. [Abhaya Hegde](#abhaya-hegde) | University of Rochester|
+| 26. [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
+| 27. [Semih Hüner](#semih-hüner) | University of Stuttgart|
+| 28. [Nobumasa Ishida](#nobumasa-ishida) | University of Tokyo|
+| 29. [Clemens Jakubec](#clemens-jakubec) | University of Arizona|
+| 30. [Siddharth Jindal](#siddharth-jindal) | University of Houston|
+| 31. [Mao Kaneyasu](#mao-kaneyasu) | The University of Tokyo|
+| 32. [Anthony Kiely](#anthony-kiely) | University College Dublin|
+| 33. [Henning Kirchberg](#henning-kirchberg) | Chalmers University of Technology|
+| 34. [Sanah Rahman Kokkarani](#sanah-rahman-kokkarani) | Indian Institute of Space Science and Technology|
+| 35. [Ankit Kumar](#ankit-kumar) | University of Gdansk|
+| 36. [Aleksander Lasek](#aleksander-lasek) | UMD|
+| 37. [Maximilian Lock](#maximilian-lock) | Atominstitut, TU Wien|
+| 38. [Ivana Lucena](#ivana-lucena) | UFPB|
+| 39. [Jinghao Lyu](#jinghao-lyu) | University of California, Davis|
+| 40. [André Hernandes Alves Malavazi](#andré-hernandes-alves-malavazi) | University of Gdańsk|
+| 41. [José Antonio Marín Guzmán](#josé-antonio-marín-guzmán) | University of Maryland, College Park|
+| 42. [Paweł Mazurek](#paweł-mazurek) | University of Gdansk|
+| 43. [Paul Menczel](#paul-menczel) | RIKEN|
+| 44. [Jonathan Miller](#jonathan-miller) | UMBC|
+| 45. [Nathan Myers](#nathan-myers) | Virginia Tech|
+| 46. [Zakaria Mzaouali](#zakaria-mzaouali) | Polish Academy of Sciences|
+| 47. [Carlos Neto](#carlos-neto) | Federal University of Paraíba|
+| 48. [Maicol Ochoa](#maicol-ochoa) | University of Maryland CP|
+| 49. [Hamza Patwa](#hamza-patwa) | Quantum Biology Laboratory, Howard University|
+| 50. [Kacper Prech](#kacper-prech) | University of Basel|
+| 51. [Eugenia Pyurbeeva](#eugenia-pyurbeeva) | Hebrew University of Jerusalem|
+| 52. [Harini Radhakrishnan](#harini-radhakrishnan) | University of Tennessee-Knoxville|
+| 53. [Rohit Kishan Ray](#rohit-kishan-ray) | Institute for Basic Science|
+| 54. [Tom Rivlin](#tom-rivlin) | TU Wien|
+| 55. [Reece Robertson](#reece-robertson) | UMBC|
+| 56. [Alberto Rosal](#alberto-rosal) | University of Rochester|
+| 57. [Dominik Šafránek](#dominik-šafránek) | Institute for Basic Science|
+| 58. [Rishav Sagar](#rishav-sagar) | University of Gdansk|
+| 59. [Tanmay Saha](#tanmay-saha) | The Institute of Mathematical Sciences|
+| 60. [Kiera Salice](#kiera-salice) | University of Houston|
+| 61. [Pratik Sathe](#pratik-sathe) | Los Alamos National Laboratory|
+| 62. [Lodovico Scarpa](#lodovico-scarpa) | University of Oxford|
+| 63. [Annie Schwartz](#annie-schwartz) | University of Rochester|
+| 64. [Tingzhang Shi](#tingzhang-shi) | Peking University|
+| 65. [Joseph Smiga](#joseph-smiga) | University of Rochester|
+| 66. [Jeongrak Son](#jeongrak-son) | Nanyang Technological University|
+| 67. [Akira Sone](#akira-sone) | University of Massachusetts Boston|
+| 68. [Sachin Sonkar](#sachin-sonkar) | Indian Institute of Science Education and Research(IISER)|
+| 69. [Shou-I Tang](#shou-i-tang) | University of Massachusetts Boston|
+| 70. [Aria Tauraso](#aria-tauraso) | UMBC|
+| 71. [Gabriel Tellez](#gabriel-tellez) | Universidad de los Andes|
+| 72. [Ludovico Tesser](#ludovico-tesser) | Chalmers University of Technology|
+| 73. [Devvrat Tiwari](#devvrat-tiwari) | Indian Institute of Technology Jodhpur|
+| 74. [Devjyoti Tripathy](#devjyoti-tripathy) | UMBC|
+| 75. [Jake Xuereb](#jake-xuereb) | Atominstitut, TU Wien|
+| 76. [Yuxin Wang](#yuxin-wang) | University of Maryland, College Park|
+| 77. [Maggie Williams](#maggie-williams) | UMBC|
+| 78. [Marek Winczewski](#marek-winczewski) | University of Gdańsk|
+| 79. [Yuxin Wu](#yuxin-wu) | Peking University|
+| 80. [Alexandria Udenkwo](#alexandria-udenkwo) | Washington University in St. Louis|
+| 81. [Sangyun Lee](#sangyun-lee) | University of Maryland & Korea Institute For Advanced Study|
+| 82. [Marcin Łobejko](#marcin-łobejko) | University of Gdansk|
+| 83. [Sanghita Sengupta](#sanghita-sengupta) | Howard University|
+| 84. [Cameron Witkowski](#cameron-witkowski) | University of Toronto|
+
 ---
 
 # Poster Titles and Abstracts
@@ -824,14 +825,6 @@ The theory of equilibrium phase transition, which traditionally does not involve
 
 #### Unveiling Detuning Effects for Heat-Current Control in Quantum Thermal Devices
 Navigating the intricacies of thermal management at the quantum scale is a challenge in the pursuit of advanced nanoscale technologies. To this extent, theoretical frameworks introducing minimal models mirroring the functionality of electronic current amplifiers and transistors, for instance, have been proposed. Different architectures of the subsystems composing a quantum thermal device can be considered, tacitly bringing drawbacks or advantages if properly engineered.This paper extends the prior research on thermotronics, studying a strongly coupled three-subsystem thermal device with a specific emphasis on a third excited level in the control subsystem. Our setup can be employed as a multipurpose device conditioned on the specific choice of internal parameters: heat switch, rectifier, stabilizer, and amplifier. The exploration of the detuned levels unveils a key role in the performance and working regime of the device. We observe a stable and strong amplification effect persisting over broad ranges of temperature. We conclude that considering a three-level system, as the one directly in contact with the control temperature, boosts output currents and the ability to operate our devices as a switch at various temperatures. 
-
----
-
-### Sparsh Gupta
-*ICTS-TIFR*
-
-####   Filling an empty Aubry-Andre-Harper lattice by local injection of quantum particles
-In this work, our objective is to investigate the response of a quasiperiodic system's dynamics when coupled with an environment, contrasting it with the isolated quantum dynamics of the system. We study the dynamics of filling an empty Aubre-Andre-Harper lattice (in different phases of the lattice) by connecting it locally with a thermal bath that injects non-interacting bosons or fermions into the lattice. We use exact quantum dynamics to evolve the whole setup and try to investigate various quantities of interest such as spatial density profile and the total number of bosons/fermions in the lattice. We observe that the spatial spread is ballistic, diffusive, and logarithmic in the Delocalized, Critical, and Localized phases respectively and the local occupation eventually settles down owing to equilibration. However, the time scales of equilibration vary differently in different regimes. We also observe the same scaling in different phases when the system's dynamics are evolved using the Lindblad Equation. The difference between bosons and fermions shows up in the early time growth rate and the saturation values of the profile. 
 
 ---
 
